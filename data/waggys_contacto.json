@@ -1,0 +1,17 @@
+{
+  "seo": {
+    "title": "Waggy's CBD - Contacto – Waggys.pet",
+    "metadescription": "Los Premios Relajantes para Mascotas más recomendados por Veterinarios, Ideales para Ansiedad por Separación, Insomnio, Miedos, Agresividad, Nerviosismo, Estrés e Hiperactividad. Con Ingredientes Activos 100% Naturales.",
+    "url": "/contacto"
+  },
+  "hero": {
+    "titulo": "¡Nos gusta saber de ti!",
+    "descripcion": "Para Waggy’s son muy importantes tus comentarios, compártenos todas tus dudas y/o preguntas.",
+    "img": "Waggys_13_Banner_Contacto.jpg"
+  },
+  "formulario": {
+    "titulo": "Contáctanos",
+    "descripcion": "Llena el formulario para ponerte en contacto con nosotros, prometemos responderte lo más pronto posible.",
+    "boton": "Enviar Formulario"
+  }
+}

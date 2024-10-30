@@ -1,0 +1,152 @@
+[
+    {
+      "question": "¿Cuáles son las características y componentes involucrados en el dolor?",
+      "options": ["Componentes sensoriales, emocionales, cognitivos y sociales","Componente físico, neurológico, emocional y afectivo", "Componentes sensorial, afectivo y neurogénico", "Componentes cognitivos, físicos, patológicos y energéticos"],
+      "answer": "Componentes sensoriales, emocionales, cognitivos y sociales"
+    },
+    {
+      "question": "¿Cuáles son los pasos del proceso nociceptivo?",
+      "options": ["Transducción, transmisión y percepción", "Transmisión, modulación y percepción", "Transducción, transmisión, modulación, proyección y percepción", "Modulación, transcripción, proyección, cognición"],
+      "answer": "Transducción, transmisión, modulación, proyección y percepción"
+    },
+    {
+      "question": " ¿Cuál es una característica principal de los nociceptores?",
+      "options": [" Son mecanorreceptores", "Son terminaciones nerviosas libres", "Forman parte de terminaciones nerviosas agrupadas", "Sólo se encuentran en la piel y hueso"],
+      "answer": "Son terminaciones nerviosas libres"
+    },
+    {
+      "question": "¿Cuáles son los dos sistemas de modulación y porque se caracterizan?",
+      "options": ["Lineal e intermitente, se caracterizan por estar involucradas fibras A Delta", "Ascendente y horizontal, suprimen las señales dolorosas y están dados por neuronas A Alfa", "Amplificación y supresión, se caracteriza por estar involucradas fibras B Alfa", "Ascendente y descendente, amplifican y suprimen las señales y están dados por interneuronas"],
+      "answer": "Ascendente y descendente, amplifican y suprimen las señales y están dados por interneuronas"
+    },
+    {
+      "question": "¿Cuáles son las sustancias involucradas en la neuroquímica tálamo cortical que se encuentran más representadas en el proceso de percepción del dolor?",
+      "options": ["GABA, Glicina, Norepinefrina y Serotonina", "Encefalinas, opioides endógenos, Dopamina", "Epinefrina, cortisol, glucosa y NMDA", "Dextrosa, histamina, glicina y cabergolina"],
+      "answer": "GABA, Glicina, Norepinefrina y Serotonina"
+    },
+    {
+      "question": "Estructuras involucradas en el proceso de modulación descendente",
+      "options": ["Médula espinal, rafé medio y cerebelo", "Cerebelo, núcleo prontocerebeloso, locus ceruleus", "Núcleo protocerebeloso, locus ceruleus, lámina X", "Sustancia gris periacueductal, sistema reticular activador, locus ceruleus"],
+      "answer": "Sustancia gris periacueductal, sistema reticular activador, locus ceruleus"
+    },
+    {
+      "question": "¿Cuáles son las dos características que determinan la clasificación principal del dolor?",
+      "options": ["Origen y tejido", "Tejido y celularidad", "Origen y celularidad", "Temporalidad y origen"],
+      "answer": "Temporalidad y origen"
+    },
+    {
+      "question": "De acuerdo con el origen del dolor ¿cómo se subdivide este?",
+      "options": ["Dolor nociceptivo y dolor no nociceptivo", "Dolor agudo y dolor crónico", "Dolor neuropático y dolor idiopático", "Dolor nociceptivo y dolor idiopático"],
+      "answer": "Dolor nociceptivo y dolor no nociceptivo"
+    },
+    {
+      "question": "De acuerdo con el origen de dolor nociceptivo ¿cómo se subdivide este?",
+      "options": ["Dolor visceral y dolor neuropático", "Dolor agudo y dolor idiopático", "Dolor somático y dolor visceral", "Dolor crónico y dolor visceral"],
+      "answer": "Dolor somático y dolor visceral"
+    },
+    {
+      "question": "¿Cuál es el componente principal del dolor agudo nociceptivo?",
+      "options": ["El componente inflamatorio con activación de nocisensores", "El componente inflamatorio con activación neurológica", "El componente neurológico con activación de nocisensores", "El componente neurológico con activación de la neuroglía"],
+      "answer": "El componente inflamatorio con activación de nocisensores"
+    },
+    {
+      "question": "¿Cuáles son las funciones estudiadas del sistema endocannabinoide?",
+      "options": ["Comunicación intercelular, regulación celular y homeostasis", "Comunicación bioquímica y regulación neuroendocrina", "Comunicación intercelular y actividades antiinflamatorias", "Regulación neuroendocrina y funciones hemodinámicas"],
+      "answer": "Comunicación intercelular, regulación celular y homeostasis"
+    },
+    {
+      "question": "¿Cuáles son los componentes básicos del SEC?",
+      "options": ["THC, CBD y receptores CB1 y CB2", "Anandamida, receptores CBG y CPY450", "Endocannabinoides, receptores y sistema enzimático encargado de síntesis y degradación", "THC, 2AG, receptores CBG"],
+      "answer": "Endocannabinoides, receptores y sistema enzimático encargado de síntesis y degradación"
+    },
+    {
+      "question": "¿Cuáles son los receptores relevantes, además de CB1 y CB2?",
+      "options": ["CB3, GPR3 y TRPV8", "TRPV y GPR55", "TRPM8, CB55 y CB2.1", "TRPV1, CB55 y THG"],
+      "answer": "TRPV y GPR55"
+    },
+    {
+      "question": "¿Cuáles son las sustancias con las cuales interactúan receptores CB1 relevantes en la vía del dolor?",
+      "options": ["Interleucina, GABA y Gutaldehido", "Dopamina, sustancia F, GABA", "Serotonina, Glicina, Glucosa e interleucina", "Noradrenalina, glutamato, GABA, glicina"],
+      "answer": "Noradrenalina, glutamato, GABA, glicina"
+    },
+    {
+      "question": "¿Cuáles son las sustancias con las cuales interactúan receptores CB2 relevantes en la vía del dolor?",
+      "options": ["Interleucinas dos, interleucina 10 e interferón gamma", "Interleucina, GABA y Gutaldehido", "Epinefrina, cortisol, glucosa y NMDA", "Dextrosa, histamina, glicina y cabergolina"],
+      "answer": "Interleucinas dos, interleucina 10 e interferón gamma"
+    },
+    {
+      "question": "¿En que pasos de la vía nociceptiva interactúa el sistema endocannabinoide?",
+      "options": ["Proyección y percepción", "Modulación y percepción", "Transcripción y modulación", "Modulación ascendente y descendente"],
+      "answer": "Modulación ascendente y descendente"
+    },
+    {
+      "question": "¿Cuáles son las láminas de Rexed en donde hay receptores CB1 y que interactúan en las vías de dolor?",
+      "options": ["Láminas II, IV y IX", "Láminas I, III y XI", "Láminas I, V y VI", "Láminas I, II y X"],
+      "answer": "Láminas I, II y X"
+    },
+    {
+      "question": "¿Con que otro tipo de receptores comparten espacio en el cerebro los receptores cannabinoides?",
+      "options": ["Receptores opioides Mu", "Receptores de proteína G", "Receptores de histamina", "Receptores GABAérgicos"],
+      "answer": "Receptores opioides Mu"
+    },
+    {
+      "question": "¿Cómo él SEC se involucra en las vías dolorosas?",
+      "options": ["Inhibición de la inflamación y transmisión nociceptiva", "Inhibición de la percepción y manejo del componente emocional", "Inhibición de la transmisión nociceptiva ascendente, activación de la vía inhibitoria descendente, modifica el componente emocional del dolor", "Dolor crónico y dolor visceral"],
+      "answer": "Inhibición de la transmisión nociceptiva ascendente, activación de la vía inhibitoria descendente, modifica el componente emocional del dolor"
+    },
+    {
+      "question": "¿En qué modelos de dolor el SEC interactúa?",
+      "options": ["Dolor agudo/inflamatorio, dolor visceral, dolor por quemaduras, dolor crónico, dolor osteoarticular, dolor oncológico, dolor neuropático", "Dolor neuropático, dolor irritativo, dolor irruptivo", "Dolor visceral, dolor irruptivo, dolor químico", "Dolor mecánico, dolor químico, dolor por presión"],
+      "answer": "Dolor agudo/inflamatorio, dolor visceral, dolor por quemaduras, dolor crónico, dolor osteoarticular, dolor oncológico, dolor neuropático"
+    },
+    {
+      "question": "¿Cuáles son los 3 grupos de sustancias que apoyan en los efectos de la planta de cannabis medicinal?",
+      "options": ["Fitocannabinoides, terpenos y flavonoides", "2AG, Delta 9 y Cannabinol", "Terpenos, Flavonoides y THC", "Anandamida, acido araquidónico y fitocannabinoides"],
+      "answer": "Fitocannabinoides, terpenos y flavonoides"
+    },
+    {
+      "question": "¿Cuáles son los terpenos que apoyan la función anti inflamatoria?",
+      "options": ["THC, linalool, Pineno", "Anandamida, limoneno, mirceno", "Mirceno, Cariofileno Pineno", "2AG, pulegona, eucaliptol"],
+      "answer": "Mirceno, Cariofileno Pineno"
+    },
+    {
+      "question": "¿Cuáles son los terpenos que tiene función analgésica?",
+      "options": ["THC, linalool, Pineno", "Nerolidol, mirceno, linalool", "Anandamida, limoneno, mirceno", "2AG, pulegona, eucaliptol"],
+      "answer": "Nerolidol, mirceno, linalool"
+    },
+    {
+      "question": "¿Mediante que grupo enzimático se debe tener precaución con el uso concomitante de CBD y analgésicos?",
+      "options": ["Enzimas de oxidación renal", "Esterasas sanguíneas", "Isoforma de COX2", "CYP450 (Citocromo P450)"],
+      "answer": "CYP450 (Citocromo P450)"
+    },
+    {
+      "question": "¿Cómo los opioides y fitocannabinoides interactúan en el manejo del dolor?",
+      "options": ["Existe sinergia, sin embargo se debe tener cuidado con incremento en efectos", "Se inhiben efectos de los fitocannabinoides", "Incrementan niveles de glucosa en sangre", "Existe inhibición directa por bloqueo de receptores"],
+      "answer": "Existe sinergia, sin embargo se debe tener cuidado con incremento en efectos"
+    },
+    {
+      "question": "¿Se pueden mezclar AINE y Fitocannabinoides y por qué?",
+      "options": ["No, ya que utilizan el mismo sistema enzimáticos de metabolismo por lo que retrasan su excreción", "Si, ya que no generan daño cerebral por acumulación", "No, ya que tiene toxicidad renal", "Si, ya que tiene efectos aditivos y sinérgicos mediante el bloqueos de COX y prostaglandinas"],
+      "answer": "Si, ya que tiene efectos aditivos y sinérgicos mediante el bloqueos de COX y prostaglandinas"
+    },
+    {
+      "question": "¿Se pueden mezclar Gabapentinoides y fitocannabinoides y por qué?",
+      "options": ["No, ya que utilizan el mismo sistema enzimáticos de metabolismo por lo que retrasan su excreción", "Si, ya que no generan daño cerebral por acumulación", "No, ya que tiene toxicidad renal", " Sí, solo que se debe de disminuír dosis ya que se metabolizan por la misma vía incrementando así los efectos centrales de ambos"],
+      "answer": " Sí, solo que se debe de disminuír dosis ya que se metabolizan por la misma vía incrementando así los efectos centrales de ambos"
+    },
+    {
+      "question": "¿Qué sucede en la interacción de anestésicos y fitocannabinoides?",
+      "options": ["Una dosis única de fitocannabinoides puede modificar la profundidad anestésica de agentes inhalatorios", "No se recomienda ya que incrementa la excitabilidad neuronal", "Con Propofol incrementa el periodo de apnea", "No es la mejor opción ya que disminuye la frecuencia cardiaca"],
+      "answer": "Una dosis única de fitocannabinoides puede modificar la profundidad anestésica de agentes inhalatorios"
+    },
+    {
+      "question": "¿En dolor agudo cuál es el blanco de tratamiento de fitocannabinoides?",
+      "options": ["El delta9", "La ciclo oxigenasa", "Terapia dirigida a CB2 ya que este receptor se incrementa en procesos agudos inflamatorios", "Terapia dirigida a flavonoides"],
+      "answer": "Terapia dirigida a CB2 ya que este receptor se incrementa en procesos agudos inflamatorios"
+    },
+    {
+      "question": "¿En dolor crónico cuál es el blanco de tratamiento de fitocannabinoides?",
+      "options": ["Buscar sinergismo con analgésicos adyuvantes", "Buscar antagonismo con sustancias algógenas", "Buscar incrementar la acción de los opioides", "Buscar no usar ningún otro fármaco"],
+      "answer": "Buscar sinergismo con analgésicos adyuvantes"
+    }
+]

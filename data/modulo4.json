@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Dosis de CBD recomendada en perros con prurito",
+        "options": ["2mg kg","4mg kg","1mg kg","10 mg kg"],
+        "answer": "2mg kg"
+    },
+    {
+        "question": "Las levaduras general prurito",
+        "options": ["Falso","Verdadero "],
+        "answer": "Verdadero "
+    },
+    {
+        "question": "Un nivel de prurito 1 en perro los pueden tolerar ",
+        "options": ["Falso","Verdadero"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El principal signo de alergia es:",
+        "options": ["Alopecia","Prurito","Costras","Cicatrices"],
+        "answer": "Prurito"
+    },
+    {
+        "question": "Es fácil diferenciar entre prurito y acicalado en gatos",
+        "options": ["Falso","Verdadero"],
+        "answer": "Falso"
+    },
+    {
+        "question": "El CBD se puede combinar con oclacitinib para el tratamiento de prurito",
+        "options": ["Falso","Verdadero"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El CBD se puede combinar con esteroides para el tratamiento de prurito",
+        "options": ["Falso","Verdadero"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El CBD se puede combinar con lokivetmab para el tratamiento de prurito",
+        "options": ["Falso","Verdadero"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El CBD se puede combinar con ciclosporina para el tratamiento de prurito",
+        "options": ["Falso","Verdadero"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El CBD tiene evidencia científica de su uso en perros para tratar prurito",
+        "options": ["Falso","Verdadero"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "La piel NO tiene sistema endocannabinoide",
+        "options": ["Falso","Verdadero"],
+        "answer": "Falso"
+    },
+    {
+        "question": "Uno de los receptores más abundantes en la piel es el TRPV1",
+        "options": ["Falso","Verdadero"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Una de las funciones del sistema endocannabinoide de la piel es:",
+        "options": ["Bronceado de la piel","Formación y mantenimiento de la barrera cutánea","Inductor de la proliferación de células neolplásicas","Favorece mecanismos de desarrollo de la autólisis"],
+        "answer": "Formación y mantenimiento de la barrera cutánea"
+    },
+    {
+        "question": "Son receptores del sistema endocannabinoide que están presentes en la piel",
+        "options": ["CB1 y CB2","Colinérgicos","Muscarínicos","Nicotínicos"],
+        "answer": "CB1 y CB2"
+    },
+    {
+        "question": "El potencial terapéutico de los cannabinoides en piel radica en:",
+        "options": ["La aplicación indiscriminada de cannabinoides tópicos y orales","Manejo del tono cannabinoide del sistema endocannabinoide de la piel","Prescripción de antibióticos y uso de cannabinoides como terapia única","Uso de fitocannabinoides como monoterapia en el manejo de los padecimientos dermatológicos."],
+        "answer": "Manejo del tono cannabinoide del sistema endocannabinoide de la piel"
+    },
+    {
+        "question": "El SEC de la piel se encarga de la modulación de procesos inflamatorios (inmunomodulación)",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El SEC de la piel se encarga de la modulación de procesos neurológicos (neuromodulación)",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El SEC en la piel se encarga de mantener los procesos homeostáticos como son el crecimiento y la diferenciación celular",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El aumento del tono cannabinoide del SEC de la piel:",
+        "options": ["Mejora la respuesta de endocannabinoides y fitocannabinoides","Disminuye la respuesta y producción de endocannabinoides y fitocannabinoides.","Aumenta la resistencia de FCB","Disminuye la resistencia y respuesta de FCB"],
+        "answer": "Mejora la respuesta de endocannabinoides y fitocannabinoides"
+    },
+    {
+        "question": "Los cannabinoides pueden utilizarse como un auxiliar en el manejo de la otitis",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Razas con muchos pliegues en la piel tienen mayor predisposición a padecer otitis.",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Los cannabinoides poseen propiedades antimicrobianas en pacientes con otitis.",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El uso de polvos óticos en pacientes con otitis está recomendado",
+        "options": ["Verdadero","Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "El uso de dimetilsulfóxido favorece la penetración de los fármacos al dar un tx en pacientes con otitis",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El CBD posee propiedades de tipo:",
+        "options": ["Anticancerígena","Anticarcinogénica","Antidermática","Antiinflamatorias"],
+        "answer": "Antiinflamatorias"
+    },
+    {
+        "question": "Los cannabinoides deben ser recomendados siempre como un auxiliar en el tratamiento de padecimientos dermatológicos",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "La disminución del tono cannabinoide del SEC de la piel:",
+        "options": ["Mejora la respuesta de endocannabinoides y fitocannabinoides","Disminuye la respuesta y producción de endocannabinoides y fitocannabinoides.","Aumenta la resistencia de FCB","Disminuye la producción o respuesta de ECB"],
+        "answer": "Disminuye la producción o respuesta de ECB"
+    },
+    {
+        "question": "El CBD por sus propiedades inmunomoduladoras es un pésimo auxiliar en el manejo del prurito",
+        "options": ["Verdadero","Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "Al tratar un paciente con dermatitis, debemos incrementar el tono cannabinoide de la piel para disminuir los procesos inflamatorios.",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El beneficio del uso de CBD en pacientes con prurito radica en que:",
+        "options": ["El CBD disminuye la liberación de citocinas pruritogénicas como la histamina.","El CBD incrementa la liberación de citocinas pruritogénicas como la histamina.","El CBD estimula la secreción de sustancias orexigenicas que mejoran la piel","El CBD disminuye el tono cannabinoide lo cual es benéfico en pacientes con prurito."],
+        "answer": "El CBD disminuye la liberación de citocinas pruritogénicas como la histamina."
+    }
+]

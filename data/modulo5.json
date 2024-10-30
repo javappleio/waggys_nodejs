@@ -1,0 +1,157 @@
+[
+    {
+        "question": "Los fitocannabinoides pueden ser utilizados como antineoplásicos para curar el cáncer:",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "Los fitocannabinoides en pacientes oncológicos se recomiendan principalmente para manejo del dolor en cuidados paliativos.",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El uso de fitocannabinoides puede ser de gran utilidad en el manejo de efectos secundarios en pacientes que se encuentran bajo tx de quimioterapia",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "¿Cuál es el principal proceso patológico terminal que afecta a 73 de 82 razas de perros?",
+        "options": ["Diabetes mellitus", "Diabetes insípida", "Cáncer", "Colitis ulcerativa severa", "Glioblastoma"],
+        "answer": "Cáncer"
+    },
+    {
+        "question": "Uno de los pilares del tratamiento del cáncer es:",
+        "options": ["Terapia dirigida", "Herbolaria", "Filoterapia", "Medicina alternativa", "Terapia nuclear"],
+        "answer": "Terapia dirigida"
+    },
+    {
+        "question": "Los cuidados paliativos también deben ser considerados como un pilar en el tratamiento del cáncer",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El uso de THC en un paciente con quimioterapia puede ayudar a estimular el apetito",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Una de las funciones del sistema endocannabinoide dentro del paciente con cáncer es modular los procesos inflamatorios",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El efecto psicotrópico del CBD limita su uso en pacientes con cáncer",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "La neoplasia más común del tracto gastrointestinal en perros es:",
+        "options": ["Melanoma", "Carcinoma gástrico", "Glioblastoma", "TVT"],
+        "answer": "Carcinoma gástrico"
+    },
+    {
+        "question": "Son trastornos benignos en el tracto gastrointestinal",
+        "options": ["Carcinoma gástrico", "Linfoma", "Plasmocitoma", "Adenomas gástricos"],
+        "answer": "Adenomas gástricos"
+    },
+    {
+        "question": "El carcinoma gástrico tiene una predisposición racial",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Los fármacos de elección para el tratamiento del carcinoma gástrico son:",
+        "options": ["Carboplatino, doxorrubicina, Mitoxantrona, Ciclofosfamida y 5-Fluouracilo", "Acido acetilsalicílico, acetaminofen, y doxirrubicina", "Nabilona, Geraniol y beta cariofileno", "Sildenafil, nabilona y acetaminofen"],
+        "answer": "Carboplatino, doxorrubicina, Mitoxantrona, Ciclofosfamida y 5-Fluouracilo"
+    },
+    {
+        "question": "Las neoplasias intestinales son de las más comunes en perros y gatos",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "El linfoma es la neoplasia más común en gatos y menos común en perros",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Las neoplasias hepáticas son muy poco comunes en perros y gatos",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Las neoplasias cutáneas tienen su origen en la epidermis y estructuras asociadas",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Dos factores de riesgo que predisponen a un paciente a padecer un carcinoma de células escamosas son:",
+        "options": ["Pelo de capa blanca y exposición prolongada a rayos UV del sol", "Consumo de nitrosaminas y piensos comerciales", "Raza y alimentación", "Ninguna de las anteriores"],
+        "answer": "Pelo de capa blanca y exposición prolongada a rayos UV del sol"
+    },
+    {
+        "question": "¿Cual es el mejor método de dx para lesiones superficiales en casos de carcinoma de células escamosas?",
+        "options": ["Citología", "Impronta y raspados", "Bioquímica y hemograma", "Angiografía de contraste"],
+        "answer": "Impronta y raspados"
+    },
+    {
+        "question": "El protocolo de manejo de Carcinoma de células escamosas contempla:",
+        "options": ["Fitoterapia y quimioterapia", "Uso de AINES y cirugía", "Fitoterapia y medicina alternativa", "Manejo del dolor y fitoterapia"],
+        "answer": "Uso de AINES y cirugía"
+    },
+    {
+        "question": "Uno de los efectos secundarios del uso de AINES en el manejo del carcinoma de células escamosas es:",
+        "options": ["Ulceración gastrointestinal", "Ceguera nocturna", "Cojeras", "Ninguna de las anteriores"],
+        "answer": "Ulceración gastrointestinal"
+    },
+    {
+        "question": "Es un tipo de carcinoma que no está asociado a exposición solar ni a pigmentación de la piel y que se presenta en animales de edad media a gerentes y no tiene predilección racial ni de sexo:",
+        "options": ["Carcinoma in situ multicéntrico", "Adenocarcinoma cutaneo extravasal", "Osteosarcoma multifocal", "Leiomioma"],
+        "answer": "Carcinoma in situ multicéntrico"
+    },
+    {
+        "question": "Tumor que resulta de la proliferación neoplásica de los mastocitos y es una de las neoplasias de piel más comunes en la clínica veterinaria.",
+        "options": ["Leiomiosarcoma", "Tumor de células de Leydig", "Mastocitoma", "Adenocarcinoma cutáneo"],
+        "answer": "Mastocitoma"
+    },
+    {
+        "question": "Una de las lesiones sistémicas asociadas al mastocitoma es:",
+        "options": ["Disminución de la fertilidad", "Ulceración del tracto gastrointestinal", "Opacidad corneal", "Esterilidad"],
+        "answer": "Ulceración del tracto gastrointestinal"
+    },
+    {
+        "question": "Una de las lesiones locales asociadas al mastocitoma es:",
+        "options": ["Disminución de la fertilidad", "Ulceración", "Opacidad corneal", "Esterilidad"],
+        "answer": "Ulceración"
+    },
+    {
+        "question": "La anafilaxia puede presentarse como resultado de la presencia de un mastocitoma en el organismo del paciente",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "¿El mastocitoma es una de las neoplasias de piel más comunes en la clínica veterinaria?",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "La quimioterapia y el uso de esteroides como la prednisona están indicados en el tratamiento del mastocitoma",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "La difenhidramina junto con los inhibidores de la bomba de protones  se consideran como farmacoterapia complementaria en el tx del mastocitoma",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Los cannabinoides pueden ser una herramienta auxiliar en el manejo del paciente con mastocitoma",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El mecanismo de acción de los fitocannabinoides en el manejo del mastocitoma radica en que:",
+        "options": ["Puede estabilizar al mastocito evitando o disminuyendo su degranulación", "Inhibe la producción de peróxidos de hidrógeno", "Estimula la liberación de histamina", "Potencia el efecto de la histamina en receptores H1 y H2"],
+        "answer": "Puede estabilizar al mastocito evitando o disminuyendo su degranulación"
+    }
+]

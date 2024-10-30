@@ -1,0 +1,393 @@
+[
+    {
+      "slug": "premios-horneados-perros",
+      "nombre": "Waggy's! Premios Original para Perros Minis",
+      "variantes": ["Minis/Chicas","Medianas/Grandes"],
+      "especie": "Perros",
+      "categoria": ["cbd-para-perros","cbd-para-mascotas","premios-naturales-para-perros","premios-para-cachorros","premios-para-perros","premios-relajantes-para-perros"],
+      "precio": [
+        199,
+        299
+      ],
+      "precioreal": [
+        159,
+        299
+      ],
+      "desc": "Waggy's! Premios Original para Perros - Apoyo Integral para tu Compañero Canino\n\nEnriquece la vida de tu perro con nuestros Premios Original de Waggy's! Diseñados minuciosamente para abordar diversas necesidades de salud y bienestar, este producto es esencial para el cuidado de tu mascota.\n\nIngredientes Naturales y Auténticos: \nNuestros premios se componen exclusivamente de ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu perro experimentará una nutrición genuina y un sabor fresco e irresistible.\n\nLibre de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nPriorizamos la salud de tu perro. Estos premios están libres de alérgenos comunes, asegurando una experiencia de recompensa segura y efectiva.\n\nOfrece a tu perro el regalo que se merece con Waggy's! Premios Original. Haz clic en \"Agregar al Carrito\" y descubre cómo este producto puede mejorar la calidad de vida de tu fiel compañero canino.",
+      "direcciones": [
+        "1 Premio por cada 1kg de Peso",
+        "1 Premio por cada 2.5kg de Peso"
+        ],
+      "sabor": "Original",
+      "img": ["Premios Originales/Waggys_Mockup_Premios_Originales_Minis_01.png","Premios Originales/Waggys_Mockup_Premios_Originales_Minis_01.png"],
+      "amazon": "",
+      "ml": ""
+    },
+    {
+      "slug": "aceite-gatos",
+      "nombre": "Waggy's® Aceite Gatos",
+      "variantes": ["Salmon Premium", "Catnip"],
+      "especie": "Gatos",
+      "categoria": [
+        "cbd-para-gatos","cbd-para-mascotas",
+        "aceites"
+      ],
+      "precio": [
+        699,
+        699
+      ],
+      "precioreal": [
+        549,
+        549
+      ],
+      "desc": "Waggy's! Aceite SALMÓN para Gatos - Apoyo Integral para tu Compañero Felino\n\nEnriquece la vida de tu gato con nuestro Aceite SALMÓN de Waggy's! Diseñado cuidadosamente para abordar diversas necesidades de salud y bienestar, este producto es una adición esencial para tu mascota.\n\nIngredientes Naturales y Deliciosos: \nNuestros aceites están elaborados con ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu gato experimentará una nutrición auténtica y un sabor irresistiblemente fresco.\n\nAceite de Salmón y Aceite Relajante - Nutrición Completa: \nEste aceite combina el poder del aceite de salmón y el aceite relajante en proporciones equilibradas. Estos ingredientes naturales proporcionan una nutrición integral, promoviendo la salud en todos los aspectos de la vida de tu gato.\n\nPiel y Pelaje Saludables: \nGracias a la combinación de aceites, tu gato lucirá una piel hidratada y un pelaje brillante. No solo se verá impresionante, sino que también se sentirá cómodo y feliz.\n\nManejo Natural de Estrés y Ansiedad: \nNuestro aceite ofrece apoyo natural y efectivo para el manejo del estrés y la ansiedad en tu gato. Sus ingredientes relajantes ayudan a tu mascota a mantenerse tranquila y apoyan su bienestar emocional.\n\nDosificación Precisa y Práctica: \nCon un dispensador incorporado, garantizamos una aplicación cómoda y precisa. Evita accidentes y contaminación del producto, y asegura el bienestar óptimo de tu mascota.\n\nLibre de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nPriorizamos la salud de tu gato. Nuestro aceite está libre de alérgenos comunes, asegurando una experiencia de suplementación segura y efectiva.\n\nDa el paso hacia una vida más saludable y feliz para tu gato con Waggy's! Aceite SALMÓN. ¡Haz clic en \"Agregar al Carrito\" y brinda a tu compañero felino el amor y cuidado que se merece!",
+      "direcciones": [
+        "1 Disparo por cada 2kg de Peso",
+        "1 Disparo por cada 2kg de Peso"
+      ],
+      "img": [
+        "Aceites/Gatos/Waggys_Amazon_Aceites_Gatos-02.png",
+        "Aceites/Gatos/Waggys_Amazon_Aceites_Gatos-01.png"
+      ],
+      "img2": "Aceites/Gatos/Waggys_Amazon_Aceites_Gatos-05.png",
+      "img3": "Aceites/Gatos/Waggys_Amazon_Aceites_Gatos-06.png",
+      "img4": "Aceites/Gatos/Waggys_Amazon_Aceites_Gatos-07.png",
+      "amazon": "https://www.amazon.com.mx/dp/B0CM42RSCW",
+      "ml": "https://articulo.mercadolibre.com.mx/MLM-2847505172-waggys-aceite-relajante-375-para-gatos-_JM#position%3D14%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D1522c9ea-5268-4048-b2bf-2dcd89a3dfb7"
+    },
+    {
+      "slug": "aceite-perros",
+      "nombre": "Waggy's® Aceite Perros",
+      "variantes": [
+        "Salmon Premium / 375mg",
+        "Salmon Premium / 750mg",
+        "Salmon Premium / 1500mg",
+        "Oliva Extra Virgen / 375mg",
+        "Oliva Extra Virgen / 750mg",
+        "Oliva Extra Virgen / 1500mg"
+      ],
+      "especie": "Perros",
+      "categoria": [
+        "cbd-para-perros",
+        "cbd-para-mascotas",
+        "aceites"
+      ],
+      "precio": [
+        699,
+        999,
+        1499,
+        699,
+        999,
+        1499
+      ],
+      "precioreal": [
+        549,
+        799,
+        1249,
+        549,
+        799,
+        1249
+      ],
+      "desc": "Waggy's! Aceite Relajante para Perros - Bienestar Integral para tu Compañero Canino\n\nEnriquece la vida de tu perro con nuestro Aceite SALMÓN de Waggy's! Diseñado minuciosamente para abordar diversas necesidades de salud y bienestar, este producto es esencial para el cuidado de tu mascota.\n\nIngredientes Naturales y Auténticos: \nNuestros aceites están compuestos exclusivamente de ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu perro experimentará una nutrición auténtica y un sabor fresco e inigualable.\n\nAceite de Salmón y Aceite Relajante - Nutrición Completa: \nEste aceite combina la riqueza del aceite de salmón y el aceite relajante en proporciones perfectamente equilibradas. Estos ingredientes naturales brindan una nutrición completa, promoviendo la salud integral de tu mascota.\n\nPiel y Pelaje Saludables: \nGracias a la sinergia de los aceites, tu perro lucirá una piel hidratada y un pelaje brillante y saludable. No solo se verá impresionante, sino que también se sentirá cómodo y lleno de vitalidad.\n\nManejo Natural del Estrés y la Ansiedad: \nNuestro aceite proporciona apoyo natural y eficaz para el manejo del estrés y la ansiedad en tu perro. Sus ingredientes relajantes ayudan a tu mascota a mantenerse tranquila, promoviendo su bienestar emocional.\n\nDosificación Precisa y Práctica: \nIncorporamos un dispensador para garantizar una aplicación cómoda y precisa. Evita accidentes y la contaminación del producto, y asegura el bienestar óptimo de tu mascota.\n\nLibre de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nNos preocupamos por la salud de tu perro. Este aceite está libre de alérgenos comunes, garantizando una experiencia de suplementación segura y efectiva.\n\nOfrece a tu perro el regalo que se merece con Waggy's! Aceite SALMÓN. Haz clic en \"Agregar al Carrito\" y descubre cómo este producto puede mejorar la calidad de vida de tu fiel compañero canino.",
+      "direcciones": [
+        "1 Disparo por cada 5kg de Peso",
+        "1 Disparo por cada 10kg de Peso",
+        "1 Disparo por cada 20kg de Peso",
+        "1 Disparo por cada 5kg de Peso",
+        "1 Disparo por cada 10kg de Peso",
+        "1 Disparo por cada 20kg de Peso"
+      ],
+      "img": [
+        "Aceites/Perros/Waggys_Amazon_Aceites_Perros-01.png",
+        "Aceites/Perros/Waggys_Amazon_Aceites_Perros-02.png",
+        "Aceites/Perros/Waggys_Amazon_Aceites_Perros-03.png",
+        "Aceites/Perros/Waggys_Oliva_375.jpg",
+        "Aceites/Perros/Waggys_Oliva_750.jpg",
+        "Aceites/Perros/Waggys_Oliva_1500.jpg"
+      ],
+      "img2": "Aceites/Perros/Waggys_Amazon_Aceites_Perros-05.png",
+      "img3": "Aceites/Perros/Waggys_Amazon_Aceites_Perros-06.png",
+      "img4": "Aceites/Perros/Waggys_Amazon_Aceites_Perros-07.png",
+      "amazon": "https://www.amazon.com.mx/dp/B0CM44WCM2",
+      "ml": "https://articulo.mercadolibre.com.mx/MLM-2014055535-waggys-aceite-relajante-1500-para-perros-_JM#position%3D10%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3Db8bf7afe-8887-436f-a186-097fb71db53c"
+    },
+    {
+      "slug": "waggys-bites",
+      "nombre": "Waggy's® Bites (Salmón / Atún)",
+      "variantes": [
+        "Salmon",
+        "Tuna"
+      ],
+      "especie": "Perros",
+      "categoria": [
+        "premios-naturales-para-perros",
+        "premios-para-cachorros",
+        "premios-para-perros",
+        "premios-relajantes-para-perros"
+      ],
+      "precio": [
+        199,
+        199
+      ],
+      "precioreal": [
+        159,
+        159
+      ],
+      "desc": "Waggy's! SALMON BITES para Perros y Gatos - Premios Super Premium Saludables y Deliciosos\n\nDemuestra tu amor por tu mascota con los premios Waggy's! SALMON BITES. Estos premios son perfectos tanto para perros como para gatos, y ofrecen una experiencia de sabor y nutrición inigualable.\n\nIngredientes 100% Naturales \nNuestros premios están elaborados exclusivamente con ingredientes naturales de la más alta calidad, sin aditivos ni conservantes artificiales. Brinda a tu mascota lo mejor de la madre naturaleza.\n\nAltos en Proteína \nRicos en proteínas de alta calidad, estos premios ayudan a mantener la masa muscular y promueven la salud general de tu mascota. Un bocado saludable que les encantará.\n\nLibres de Granos \nFormulados sin granos, nuestros premios son ideales para mascotas con sensibilidades alimentarias o alergias. Además, son altamente digeribles, lo que garantiza una recompensa segura y deliciosa.\n\nAltos en Omegas \nEnriquecidos con ácidos grasos omega, estos premios contribuyen a una piel saludable y un pelaje brillante. También respaldan la salud cardiovascular y articular de tu mascota, asegurando un bienestar completo.\n\nLibres de Conservantes y Saborizantes Artificiales \nNos preocupamos por la salud de tu mascota. Por eso, nuestros premios no contienen conservantes ni sabores artificiales, lo que les proporciona un sabor natural y delicioso.\n\nDescubre la recompensa perfecta para el entrenamiento y el amor incondicional de tu mascota. Con 100 premios suaves por bolsa, Waggy's! SALMON BITES son la elección perfecta!",
+      "direcciones": [
+        "Dosis diaria recomendada:\nHasta 9 premios para gatos\nHasta 11 premios para perros raza chica (<10kg)\nHasta 26 premios para perros raza grande (>10kg)",
+        "Dosis diaria recomendada:\nHasta 9 premios para gatos\nHasta 11 premios para perros raza chica (<10kg)\nHasta 26 premios para perros raza grande (>10kg)"
+      ],
+      "img": [
+        "Bites/Salmon/Waggys_Bites_Salmon.png",
+        "Bites/Tuna/Waggys_Bites_Atun.png"
+      ],
+      "img2": "Bites/Salmon/Waggys_Amazon_Premios_Bites_Salmon-03.png",
+      "img3": "Bites/Salmon/Waggys_Amazon_Premios_Bites_Salmon-04.png",
+      "img4": "Bites/Salmon/Waggys_Amazon_Premios_Bites_Salmon-05.png",
+      "amazon": "",
+      "ml": "https://articulo.mercadolibre.com.mx/MLM-2716329038-waggys-bites-para-perros-premios-super-premium-saludables-_JM#position%3D9%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D3af7dbf7-df40-4f2c-96ae-a6540a97095e"
+    },
+    {
+      "slug": "waggys-bola-loca",
+      "nombre": "Waggy's® Bola Loca",
+      "especie": "Perros y Gatos",
+      "categoria": [
+        "juguetes-para-perros-y-gatos"
+      ],
+      "precio": [
+        869
+      ],
+      "precioreal": [
+        639
+      ],
+      "desc": "Waggy's! BOLA LOCA para Perros - Entretenimiento Inteligente y Activo\n\nMantén a tu perro activo y feliz con la Waggy's! BOLA LOCA para Perros. Esta pelota inteligente automática y saltarina es la solución perfecta para estimular la mente y el cuerpo de tu mascota.\n\nAutomática y Saltarina para Estimulación Cognitiva \nNuestra pelota es automática y tiene una acción saltarina que proporciona estimulación cognitiva a tu perro. Mantén su mente activa y curiosa mientras disfruta de horas de juego interactivo.\n\nElaborada con Materiales Seguros y Caucho Natural \nDiseñada pensando en la seguridad de tu mascota, esta pelota está hecha de materiales seguros y caucho natural. Ofrece resistencia y durabilidad para enfrentar el juego más enérgico sin preocupaciones.\n\nFácil de Limpiar y Resistente a Salpicaduras \nMantener la pelota en perfectas condiciones es sencillo. Es fácil de limpiar y resistente a salpicaduras, lo que la convierte en la elección ideal tanto para interiores como para exteriores.\n\nRecargable para Juego Ininterrumpido \nNuestra pelota es recargable, lo que significa que puedes disfrutar de horas de juego ininterrumpido sin la necesidad constante de cambiar las baterías. Es práctica y amigable con el medio ambiente.\n\nCon 3 Modos Interactivos e Indicador LED \nLa diversión nunca termina con los 3 emocionantes modos interactivos que ofrece esta pelota. Además, cuenta con un indicador LED que agrega un toque de diversión y facilita su uso.\n\nBrinda a tu perro la diversión y el ejercicio que necesita con la Waggy's! BOLA LOCA para Perros. ¡Ordénala ahora y dale a tu mascota la mejor experiencia de entretenimiento activo!",
+      "direcciones": [
+        ""
+      ],
+      
+      "img": [
+        "Bola Loca/Waggys_Amazon_Juguetes_Bola_Loca-01.png"
+      ],
+      "img2": "Bola Loca/Waggys_Amazon_Juguetes_Bola_Loca-03.png",
+      "img3": "Bola Loca/Waggys_Amazon_Juguetes_Bola_Loca-04.png",
+      "img4": "Bola Loca/Waggys_Amazon_Juguetes_Bola_Loca-05.png",
+      "amazon": "https://www.amazon.com.mx/Waggys®-Bola-Loca-Perros-Pequeños/dp/B0CLZ1VC7P?ref_=ast_sto_dp&th=1",
+      "ml": "https://articulo.mercadolibre.com.mx/MLM-1986038095-waggys-bola-loca-para-perros-pelota-inteligente-saltarina-_JM#position%3D13%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D727c7c9e-91be-4634-93d2-196b6a04e0ec"
+    },
+    {
+      "slug": "waggys-calming-gatos",
+      "nombre": "Waggy's® Calming Gatos",
+      "especie": "Gatos",
+      "categoria": [
+        "cbd-para-gatos",
+        "cbd-para-mascotas"
+      ],
+      "precio": [
+        399
+      ],
+      "precioreal": [
+        299
+      ],
+      "desc": "Waggy's! Premios CALMING para Gatos - Bienestar Sereno para tu Compañero Felino\n\nDemuestra a tu gato cuánto te importa con nuestros Premios CALMING de Waggy's! Estos premios han sido cuidadosamente formulados para abordar una amplia variedad de situaciones estresantes, brindando a tu mascota una experiencia de bienestar y tranquilidad.\n\nIngredientes Naturales y Auténticos: \nNuestros premios están hechos exclusivamente con ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu gato experimentará una nutrición auténtica y un sabor fresco y delicioso.\n\nAdicionado con Pasiflora y L-teanina - Calma Natural: \nEstos premios contienen pasiflora y L-teanina, dos ingredientes naturales ampliamente conocidos por sus propiedades relajantes y capacidad para reducir el estrés. Ya sea en momentos de ansiedad o para promover la calma diaria, estos premios son una elección excepcional.\n\nAuxiliar para Ansiedad por Separación \nEspecialmente formulados para aliviar la ansiedad por separación que tu gato pueda experimentar cuando no estás en casa. La pasiflora y la L-teanina trabajan en conjunto para brindar tranquilidad a tu mascota durante tus ausencias.\n\nApoyo para Miedos por Fuertes Ruidos y Viajes \nFrente a tormentas, fuegos artificiales o viajes en automóvil, nuestros premios se convierten en un aliado importante. Ayudan a reducir el miedo y el nerviosismo que tu gato pueda sentir en situaciones estresantes como estas.\n\nAminorar la Agresividad por Nerviosismo e Hiperactividad \nLos ingredientes cuidadosamente seleccionados en estos premios pueden ayudar a reducir la agresividad que a veces se asocia con la hiperactividad y el nerviosismo en los gatos. Promueven la tranquilidad y el bienestar emocional de tu mascota.\n\nLibres de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nNos preocupamos por la salud de tu gato. Nuestros premios están libres de alérgenos comunes, garantizando una experiencia de recompensa segura y efectiva.\n\nBrinda a tu gato la serenidad que merece con Waggy's! Premios CALMING. Haz clic en \"Agregar al Carrito\" y descubre cómo estos premios pueden mejorar la calidad de vida de tu leal compañero felino.",
+      "direcciones": [
+        "1 Premio por cada 1kg de Peso"
+      ],
+      
+      "img": [
+        "Soft Chews/Soft Chews Calming/Gatos/Waggys_Amazon_Soft_Chews_Calming_Gatos-01.png"
+      ],
+      "img2": "Soft Chews/Soft Chews Calming/Gatos/Waggys_Amazon_Soft_Chews_Calming_Gatos-03.png",
+      "img3": "Soft Chews/Soft Chews Calming/Gatos/Waggys_Amazon_Soft_Chews_Calming_Gatos-04.png",
+      "img4": "Soft Chews/Soft Chews Calming/Gatos/Waggys_Amazon_Soft_Chews_Calming_Gatos-05.png",
+      "amazon": "https://www.amazon.com.mx/dp/B09C6KKMWT",
+      "ml": "https://www.mercadolibre.com.mx/waggys-premios-calming-125-para-gatos-apoyo-relajante/p/MLM36221258?pdp_filters=seller_id:167719008#wid=MLM2057050445&sid=search&searchVariation=MLM36221258&position=8&search_layout=grid&type=product&tracking_id=4007ce66-dad6-4a52-adad-6fbc77c121ca"
+    },
+    {
+      "slug": "waggys-calming-perros",
+      "nombre": "Waggy's® Calming Perros",
+      "variantes": [
+        "Chicas",
+        "Medianas",
+        "Grandes"
+      ],
+      "especie": "Perros",
+      "categoria": [
+        "cbd-para-perros",
+        "cbd-para-mascotas",
+        "premios-naturales-para-perros",
+        "premios-para-cachorros",
+        "premios-para-perros",
+        "premios-relajantes-para-perros"
+      ],
+      "precio": [
+        399,
+        599,
+        899
+      ],
+      "precioreal": [
+        299,
+        499,
+        749
+      ],
+      "desc": "Waggy's! Premios CALMING para Perros - Bienestar Tranquilidad para tu Compañero Canino\n\nDemuestra a tu perro que te importa con nuestros Premios CALMING de Waggy's! Estos premios han sido cuidadosamente diseñados para abordar una amplia gama de situaciones estresantes, brindando a tu mascota una experiencia de bienestar y calma.\n\nIngredientes Naturales y Auténticos: \nNuestros premios están hechos exclusivamente con ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu perro experimentará una nutrición auténtica y un sabor fresco y delicioso.\n\nAdicionado con Pasiflora y L-teanina - Tranquilidad Natural: \nEstos premios contienen pasiflora y L-teanina, dos ingredientes naturales reconocidos por sus propiedades relajantes y capacidad para reducir el estrés. Ya sea en momentos estresantes o para promover la calma diaria, estos premios son una elección excepcional.\n\nAuxiliar para Ansiedad por Separación \nFormulados especialmente para aliviar la ansiedad por separación que tu perro pueda experimentar cuando no estás en casa. La pasiflora y la L-teanina trabajan juntas para brindar tranquilidad a tu mascota durante tus ausencias.\n\nApoyo para Miedos por Fuertes Ruidos y Viajes \nFrente a tormentas, fuegos artificiales o viajes en automóvil, nuestros premios se convierten en un aliado importante. Ayudan a reducir el miedo y el nerviosismo que tu perro pueda sentir en situaciones estresantes como estas.\n\nAminorar la Agresividad por Nerviosismo e Hiperactividad \nLos ingredientes seleccionados con cuidado en estos premios pueden ayudar a reducir la agresividad que a veces se asocia con la hiperactividad y el nerviosismo en los perros. Promueven la tranquilidad y el bienestar emocional de tu mascota.\n\nLibres de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nNos preocupamos por la salud de tu perro. Nuestros premios están libres de alérgenos comunes, garantizando una experiencia de recompensa segura y efectiva.\n\nBrinda a tu perro la tranquilidad que necesita con Waggy's! Premios CALMING. Haz clic en \"Agregar al Carrito\" y descubre cómo estos premios pueden mejorar la calidad de vida de tu fiel compañero canino.",
+      "direcciones": [
+        "1 Premio por cada 2.5kg de Peso",
+        "1 Premio por cada 5kg de Peso",
+        "1 Premio por cada 5kg de Peso"
+      ],
+      
+      "img": [
+        "Soft Chews/Soft Chews Calming/Perros/Waggys_Amazon_Soft_Chews_Calming_Perros-01.png",
+        "Soft Chews/Soft Chews Calming/Perros/Waggys_Amazon_Soft_Chews_Calming_Perros-02.png",
+        "Soft Chews/Soft Chews Calming/Perros/Waggys_Amazon_Soft_Chews_Calming_Perros-01.png"
+      ],
+      "img2": "Soft Chews/Soft Chews Calming/Perros/Waggys_Amazon_Soft_Chews_Calming_Perros-04.png",
+      "img3": "Soft Chews/Soft Chews Calming/Perros/Waggys_Amazon_Soft_Chews_Calming_Perros-05.png",
+      "img4": "Soft Chews/Soft Chews Calming/Perros/Waggys_Amazon_Soft_Chews_Calming_Perros-06.png",
+      "amazon": "https://www.amazon.com.mx/Waggys-Premios-Calming-Perros-Medianos/dp/B0CM4V2K4R?ref_=ast_sto_dp",
+      "ml": "https://www.mercadolibre.com.mx/waggys-calming-premios-para-perros-100g-50-unidades/p/MLM36244394?pdp_filters=seller_id:167719008#wid=MLM2058011025&sid=search&searchVariation=MLM36244394&position=7&search_layout=grid&type=product&tracking_id=8d4a3b1a-a4c3-4d59-b304-644d77d0469a"
+    },
+    {
+      "slug": "waggys-mobility-gatos",
+      "nombre": "Waggy's® Mobility Gatos",
+      "especie": "Gatos",
+      "categoria": [
+        "cbd-para-gatos",
+        "cbd-para-mascotas"
+      ],
+      "precio": [
+        399
+      ],
+      "precioreal": [
+        299
+      ],
+      "desc": "Waggy's! Premios CALMING para Gatos - Bienestar Sereno para tu Compañero Felino\n\nDemuestra a tu gato cuánto te importa con nuestros Premios CALMING de Waggy's! Estos premios han sido cuidadosamente formulados para abordar una amplia variedad de situaciones estresantes, brindando a tu mascota una experiencia de bienestar y tranquilidad.\n\nIngredientes Naturales y Auténticos: \nNuestros premios están hechos exclusivamente con ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu gato experimentará una nutrición auténtica y un sabor fresco y delicioso.\n\nAdicionado con Pasiflora y L-teanina - Calma Natural: \nEstos premios contienen pasiflora y L-teanina, dos ingredientes naturales ampliamente conocidos por sus propiedades relajantes y capacidad para reducir el estrés. Ya sea en momentos de ansiedad o para promover la calma diaria, estos premios son una elección excepcional.\n\nAuxiliar para Ansiedad por Separación \nEspecialmente formulados para aliviar la ansiedad por separación que tu gato pueda experimentar cuando no estás en casa. La pasiflora y la L-teanina trabajan en conjunto para brindar tranquilidad a tu mascota durante tus ausencias.\n\nApoyo para Miedos por Fuertes Ruidos y Viajes \nFrente a tormentas, fuegos artificiales o viajes en automóvil, nuestros premios se convierten en un aliado importante. Ayudan a reducir el miedo y el nerviosismo que tu gato pueda sentir en situaciones estresantes como estas.\n\nAminorar la Agresividad por Nerviosismo e Hiperactividad \nLos ingredientes cuidadosamente seleccionados en estos premios pueden ayudar a reducir la agresividad que a veces se asocia con la hiperactividad y el nerviosismo en los gatos. Promueven la tranquilidad y el bienestar emocional de tu mascota.\n\nLibres de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nNos preocupamos por la salud de tu gato. Nuestros premios están libres de alérgenos comunes, garantizando una experiencia de recompensa segura y efectiva.\n\nBrinda a tu gato la serenidad que merece con Waggy's! Premios CALMING. Haz clic en \"Agregar al Carrito\" y descubre cómo estos premios pueden mejorar la calidad de vida de tu leal compañero felino.",
+      "direcciones": [
+        "1 Premio por cada 1kg de Peso"
+      ],
+      "img": [
+        "Soft Chews/Soft Chews Mobility/Gatos/Waggys_Amazon_Soft_Chews_Mobility_Gatos-01.png"
+      ],
+      "img2": "Soft Chews/Soft Chews Mobility/Gatos/Waggys_Amazon_Soft_Chews_Mobility_Gatos-03.png",
+      "img3": "Soft Chews/Soft Chews Mobility/Gatos/Waggys_Amazon_Soft_Chews_Mobility_Gatos-04.png",
+      "img4": "Soft Chews/Soft Chews Mobility/Gatos/Waggys_Amazon_Soft_Chews_Mobility_Gatos-05.png",
+      "amazon": "https://www.amazon.com.mx/Waggys-Premios-Mobility-para-Gatos/dp/B0CM4P9N3R?ref_=ast_sto_dp",
+      "ml": "https://www.mercadolibre.com.mx/waggys-premios-mobility-125-para-gatos-apoyo-articular/p/MLM37367911?pdp_filters=seller_id:167719008#wid=MLM3109850668&sid=search&searchVariation=MLM37367911&position=9&search_layout=grid&type=product&tracking_id=8d4a3b1a-a4c3-4d59-b304-644d77d0469a"
+    },
+    {
+      "slug": "waggys-mobility-perros",
+      "nombre": "Waggy's® Mobility Perros",
+      "variantes": [
+        "Chicas",
+        "Medianas",
+        "Grandes"
+      ],
+      "especie": "Perros",
+      "categoria": [
+        "cbd-para-perros",
+        "cbd-para-mascotas",
+        "premios-naturales-para-perros",
+        "premios-para-cachorros",
+        "premios-para-perros",
+        "premios-relajantes-para-perros"
+      ],
+      "precio": [
+        399,
+        599,
+        899
+      ],
+      "precioreal": [
+        299,
+        499,
+        749
+      ],
+      "desc": "Waggy's! Premios MOBILITY para Perros - Movilidad y Comodidad para tu Compañero Canino\n\nDemuestra a tu perro cuánto te importa con nuestros Premios MOBILITY de Waggy's! Estos premios han sido cuidadosamente diseñados para brindar un apoyo integral a la movilidad, articulaciones y bienestar general de tu mascota.\n\nIngredientes Naturales y Auténticos: \nNuestros premios están hechos exclusivamente con ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu perro experimentará una nutrición auténtica y un sabor fresco y delicioso.\n\nAdicionado con Cartílago de Fuentes Acuáticas y Cúrcuma - Salud Articular Completa: \nEstos premios están enriquecidos con cartílago de fuentes acuáticas, una fuente natural de glucosamina, y cúrcuma, conocida por sus propiedades antiinflamatorias. Esta combinación única ofrece un apoyo completo para la salud articular de tu perro.\n\nAuxiliar para Aliviar el Malestar Articular e Inflamación \nUna solución efectiva y deliciosa para aliviar el malestar articular y reducir la inflamación en tu mascota. El cartílago de fuentes acuáticas y la cúrcuma trabajan juntos para brindar alivio.\n\nAyuda a Mejorar la Movilidad \nSi tu perro experimenta dificultades en su movilidad debido a problemas articulares, nuestros premios pueden marcar la diferencia. Promueven una mayor agilidad y flexibilidad, lo que permite a tu mascota moverse con facilidad y comodidad.\n\nApoyo para Mantener la Integridad de las Articulaciones \nLa salud de las articulaciones es esencial para la calidad de vida de tu perro. Nuestros premios fortalecen y mantienen la integridad de las articulaciones, previniendo el desgaste y promoviendo una vida activa y sin dolor.\n\nLibres de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nNos preocupamos por la salud de tu perro. Nuestros premios están libres de alérgenos comunes, garantizando una experiencia de recompensa segura y efectiva.\n\nBrinda a tu perro la comodidad y movilidad que se merece con Waggy's! Premios MOBILITY. Haz clic en \"Agregar al Carrito\" y descubre cómo estos premios pueden mejorar la calidad de vida de tu fiel compañero canino.",
+      "direcciones": [
+        "1 Premio por cada 2.5kg de Peso",
+        "1 Premio por cada 5kg de Peso",
+        "1 Premio por cada 5kg de Peso"
+      ],
+      "img": [
+        "Soft Chews/Soft Chews Mobility/Perros/Waggys_Amazon_Soft_Chews_Mobility_Perros-01.png",
+        "Soft Chews/Soft Chews Mobility/Perros/Waggys_Amazon_Soft_Chews_Mobility_Perros-02.png",
+        "Soft Chews/Soft Chews Mobility/Perros/Waggys_Amazon_Soft_Chews_Mobility_Perros-03.png"
+      ],
+      "img2": "Soft Chews/Soft Chews Mobility/Perros/Waggys_Amazon_Soft_Chews_Mobility_Perros-04.png",
+      "img3": "Soft Chews/Soft Chews Mobility/Perros/Waggys_Amazon_Soft_Chews_Mobility_Perros-05.png",
+      "img4": "Soft Chews/Soft Chews Mobility/Perros/Waggys_Amazon_Soft_Chews_Mobility_Perros-06.png",
+      "amazon": "https://www.amazon.com.mx/Waggys-Premios-Mobility-Perros-Medianos/dp/B0CM4NSSWW?ref_=ast_sto_dp",
+      "ml": "https://www.mercadolibre.com.mx/waggys-premios-mobility-125-para-perros-apoyo-articular/p/MLM36327241?pdp_filters=seller_id:167719008#wid=MLM2058847295&sid=search&searchVariation=MLM36327241&position=4&search_layout=grid&type=product&tracking_id=8d4a3b1a-a4c3-4d59-b304-644d77d0469a"
+    },
+    {
+      "slug": "waggys-wellness-gatos",
+      "nombre": "Waggy's® Wellness Gatos",
+      "especie": "Gatos",
+      "categoria": [
+        "cbd-para-gatos",
+        "cbd-para-mascotas"
+      ],
+      "precio": [
+        399
+      ],
+      "precioreal": [
+        299
+      ],
+      "desc": "Waggy's! Premios WELLNESS para Gatos - Bienestar Completo para tu Compañero Felino\n\nDemuestra tu amor a tu gato con nuestros Premios WELLNESS de Waggy's! Estos premios han sido meticulosamente diseñados para abordar una amplia gama de necesidades de salud y bienestar, brindando a tu mascota una experiencia de bienestar integral.\n\nIngredientes Naturales y Auténticos: \nNuestros premios están hechos exclusivamente con ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu gato disfrutará de la autenticidad de la nutrición en cada bocado.\n\nEnriquecidos con Omegas y Calabaza - Nutrición Completa: \nEstos premios son una deliciosa fuente de ácidos grasos Omega y calabaza. Además de ser irresistibles al paladar, aportan beneficios específicos para la piel y el pelaje de tu gato, manteniéndolos en un estado de brillo y salud óptimos.\n\nPromoción de la Salud de Piel y Pelo: \nLos ingredientes cuidadosamente seleccionados trabajan en conjunto para mantener la piel de tu gato hidratada y su pelaje sedoso. Esto reduce la irritación y las molestias cutáneas, brindando a tu mascota una apariencia radiante.\n\nMejora la Salud Digestiva: \nDiseñados para favorecer la salud digestiva, nuestros premios contienen ingredientes que facilitan la digestión y la absorción de nutrientes, reduciendo posibles molestias estomacales.\n\nFortalece el Sistema Inmune:\nCon ingredientes que apoyan la inmunidad, estos premios refuerzan la salud general de tu gato, proporcionándole una defensa adicional contra enfermedades y problemas de salud comunes.\n\nLibres de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nNos preocupamos por la salud de tu gato. Nuestros premios están libres de alérgenos comunes, asegurando una experiencia de recompensa segura y efectiva.\n\nDemuestra tu aprecio a tu gato con Waggy's! Premios WELLNESS. Haz clic en \"Agregar al Carrito\" y descubre cómo estos premios pueden mejorar la calidad de vida de tu leal compañero felino.",
+      "direcciones": [
+        "1 Premio por cada 1kg de Peso"
+      ],
+      "img": [
+        "Soft Chews/Soft Chews Wellness/Gatos/Waggys_Amazon_Soft_Chews_Wellness_Gatos-01.png"
+      ],
+      "img2": "Soft Chews/Soft Chews Wellness/Gatos/Waggys_Amazon_Soft_Chews_Wellness_Gatos-03.png",
+      "img3": "Soft Chews/Soft Chews Wellness/Gatos/Waggys_Amazon_Soft_Chews_Wellness_Gatos-04.png",
+      "img4": "Soft Chews/Soft Chews Wellness/Gatos/Waggys_Amazon_Soft_Chews_Wellness_Gatos-05.png",
+      "amazon": "https://www.amazon.com.mx/Waggys-Premios-Wellness-para-Gatos/dp/B0CM51G13Z?ref_=ast_sto_dp",
+      "ml": "https://www.mercadolibre.com.mx/waggys-premios-wellness-125-para-gatos-bienestar-integral-50-g/p/MLM35954476?pdp_filters=seller_id:167719008#wid=MLM3026462214&sid=search&searchVariation=MLM35954476&position=5&search_layout=grid&type=product&tracking_id=8d4a3b1a-a4c3-4d59-b304-644d77d0469a"
+    },
+    {
+      "slug": "waggys-wellness-perros",
+      "nombre": "Waggy's® Wellness Perros",
+      "variantes": [
+        "Chicas",
+        "Medianas",
+        "Grandes"
+      ],
+      "especie": "Perros",
+      "categoria": [
+        "cbd-para-perros",
+        "cbd-para-mascotas",
+        "premios-naturales-para-perros",
+        "premios-para-cachorros",
+        "premios-para-perros",
+        "premios-relajantes-para-perros"
+      ],
+      "precio": [
+        399,
+        599,
+        899
+      ],
+      "precioreal": [
+        299,
+        499,
+        749
+      ],
+      "desc": "Waggy's! Premios WELLNESS para Perros - Bienestar Integral para tu Compañero Canino\n\nBrinda a tu perro un regalo excepcional con nuestros Premios WELLNESS de Waggy's! Diseñados meticulosamente para abordar una variedad de necesidades de salud y bienestar, estos premios son una muestra de amor y cuidado para tu mascota.\n\nIngredientes Naturales y Auténticos: \nNuestros premios se componen exclusivamente de ingredientes 100% naturales, sin aditivos ni conservantes artificiales. Tu perro experimentará una nutrición genuina y un sabor fresco e irresistible.\n\nEnriquecidos con Omegas y Calabaza - Nutrición Integral: \nEstos premios son una deliciosa fuente de ácidos grasos Omega y calabaza. No solo son irresistibles al paladar, sino que también aportan beneficios específicos para la piel y el pelaje de tu perro, manteniéndolos en óptimas condiciones.\n\nPromoción de la Salud de Piel y Pelo: \nLos ingredientes cuidadosamente seleccionados trabajan en armonía para mantener la piel de tu perro hidratada y su pelaje sedoso. Esto reduce la irritación y las molestias cutáneas, permitiendo que tu mascota luzca y se sienta radiante.\n\nMejora la Salud Digestiva: \nDiseñados para favorecer la salud digestiva, estos premios contienen ingredientes que facilitan la digestión y la absorción de nutrientes, reduciendo las posibles molestias estomacales de tu mascota.\n\nFortalece el Sistema Inmune: \nNuestros premios están formulados con ingredientes que apoyan la inmunidad de tu perro, brindándole una defensa adicional contra enfermedades y problemas de salud comunes. Mantén a tu compañero canino en su mejor estado de salud.\n\nLibre de Gluten, Saborizantes Artificiales, Soya, Lácteos y Huevo: \nPriorizamos la salud de tu perro. Estos premios están libres de alérgenos comunes, asegurando una experiencia de recompensa segura y efectiva.\n\nDa a tu perro el regalo de bienestar y sabor con Waggy's! Premios WELLNESS. Haz clic en \"Agregar al Carrito\" y descubre cómo estos premios pueden mejorar la calidad de vida de tu fiel amigo.",
+      "direcciones": [
+        "1 Premio por cada 2.5kg de Peso",
+        "1 Premio por cada 5kg de Peso",
+        "1 Premio por cada 5kg de Peso"
+      ],
+      "img": [
+        "Soft Chews/Soft Chews Wellness/Perros/Waggys_Amazon_Soft_Chews_Wellness_Perros-01.png",
+        "Soft Chews/Soft Chews Wellness/Perros/Waggys_Amazon_Soft_Chews_Wellness_Perros-02.png",
+        "Soft Chews/Soft Chews Wellness/Perros/Waggys_Amazon_Soft_Chews_Wellness_Perros-01.png"
+      ],
+      "img2": "Soft Chews/Soft Chews Wellness/Perros/Waggys_Amazon_Soft_Chews_Wellness_Perros-04.png",
+      "img3": "Soft Chews/Soft Chews Wellness/Perros/Waggys_Amazon_Soft_Chews_Wellness_Perros-05.png",
+      "img4": "Soft Chews/Soft Chews Wellness/Perros/Waggys_Amazon_Soft_Chews_Wellness_Perros-06.png",
+      "amazon": "https://www.amazon.com.mx/Waggys-Premios-Calming-Perros-Medianos/dp/B0CM4V2K4R?ref_=ast_sto_dp",
+      "ml": "https://www.mercadolibre.com.mx/waggys-calming-premios-para-perros-100g-50-unidades/p/MLM36244394?pdp_filters=seller_id:167719008#wid=MLM2058011025&sid=search&searchVariation=MLM36244394&position=7&search_layout=grid&type=product&tracking_id=8d4a3b1a-a4c3-4d59-b304-644d77d0469a"
+    }
+  ]

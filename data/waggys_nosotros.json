@@ -1,0 +1,167 @@
+{
+  "seo": {
+    "title": "Nosotros – Waggys.pet",
+    "metadescription": "Los Premios Relajantes para Mascotas más recomendados por Veterinarios, Ideales para Ansiedad por Separación, Insomnio, Miedos, Agresividad, Nerviosismo, Estrés e Hiperactividad. Con Ingredientes Activos 100% Naturales.",
+    "url": "/nosotros"
+  },
+  "hero": {
+    "titulo": "NUESTRA HISTORIA",
+    "descripcion": "En 2020, en medio de la pandemia, nació Waggy’s con la misión de mejorar la vida de nuestros peluditos. Todo comenzó con Martín, un valiente golden retriever que había pasado por el abandono debido a su condición de salud. Martín desarrolló cáncer de tiroides, lo que le causaba ataques epilépticos, por lo que sus dueños decidieron abandonarlo después de 13 años. Martín fue rescatado, pero tuvo muchos problemas para adaptarse a su nuevo hogar, sin mencionar la gran cantidad de medicamentos que lo mantenían en un estado sedativo. Después de muchas recomendaciones, el CBD fue lo que ayudó a Martín a mejorar su condición y llevar una vida normal. Hoy en día, Martín está bien de salud y sigue meneando su colita. Es por él que se inició Waggy’s, con la intención de ayudar a más peluditos en el mundo.",
+    "img": "Waggys_06_Banner_Nuestra_Historia.jpg"
+  },
+  "equipo": {
+    "titulo": "¡Trabajamos con amor!",
+    "subtitlulo": "Somos un equipo de apasionados por la salud y el bienestar de las mascotas.",
+    "team": [
+      {
+        "img": "Andres_Arroyo.jpg",
+        "title": "Andres Arroyo",
+        "desc": "Director Comercial"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/003/543/351/non_2x/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg",
+        "title": "Jorge Ortiz",
+        "desc": "Director Operativo"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/003/543/351/non_2x/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg",
+        "title": "Joselyn Zapata",
+        "desc": "Jefa de Administración"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/003/543/351/non_2x/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg",
+        "title": "Ale Cruz",
+        "desc": "Jefa Recursos Humanos"
+      },
+      {
+        "img": "Manuel_Pérez.jpg",
+        "title": "Manuel Pérez",
+        "desc": "Jefe de Comunicación Científica"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/003/543/351/non_2x/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg",
+        "title": "Miguel García",
+        "desc": "Jefe de Calidad"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/003/543/351/non_2x/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg",
+        "title": "Juan Pablo Navarrete",
+        "desc": "Jefe de Producción y Operaciones"
+      },
+      {
+        "img": "Cristopher_Bernal.jpg",
+        "title": "Christopher Bernal",
+        "desc": "Jefe de Call Center"
+      },
+      {
+        "img": "Viri_Santos.jpg",
+        "title": "Viridiana de los Santos",
+        "desc": "Jefa de Marketing"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/003/543/351/non_2x/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg",
+        "title": "Karla Granados",
+        "desc": "Content Creator Jr"
+      },
+      {
+        "img": "Gina_Lizarraga.jpg",
+        "title": "Jeorgina Lizarraga",
+        "desc": "Jefa de Ventas"
+      },
+      {
+        "img": "Arturo_Mercado.jpg",
+        "title": "Arturo Mercado",
+        "desc": "Representante Zona Occidente 1"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/003/543/351/non_2x/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg",
+        "title": "Maricela Orozco Ramírez",
+        "desc": "Representante Zona Occidente 2"
+      },
+      {
+        "img": "Enrique_León.jpg",
+        "title": "Enrique León",
+        "desc": "Representante Zona Noroeste"
+      },
+      {
+        "img": "Erik_Puente.jpg",
+        "title": "Erik Puente",
+        "desc": "Representante Zona Noreste"
+      },
+      {
+        "img": "David_Baltazar_Moo.jpg",
+        "title": "David Moo Hau",
+        "desc": "Representante Zona Sureste"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/003/543/351/non_2x/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg",
+        "title": "Iván Crespo Martínez",
+        "desc": "Representante Zona Centro"
+      }
+    ]
+  },
+  "mision": {
+    "titulo": "Nuestra misión",
+    "descripcion": "Mejorar la calidad de vida de las mascotas y sus dueños con productos naturales, que abordan las necesidades específicas de las mascotas, ofreciendo soluciones efectivas, seguras y amigables con el medio ambiente.",
+    "img": "Waggys_08A_Banner_Misión.jpg"
+  },
+  "vision": {
+    "titulo": "Nuestra visión",
+    "descripcion": "Ser líderes en la industria de productos de bienestar para mascotas, ofreciendo una línea completa de productos naturales de alta calidad y expandiendo nuestro alcance para ayudar a más animalitos en todo el mundo.",
+    "img": "Waggys_09A_Banner_Visión.jpg"
+  },
+  "valores": [
+    {
+      "img": "Waggys_10_Valores-01_Pasión.png",
+      "title": "Pasión por el Bienestar",
+      "desc": "Es lo que impulsa nuestro compromiso hacia la mejora continua, y la dedicación a proporcionar productos de calidad que realmente tengan un impacto positivo en nuestras mascotas y en la comunidad."
+    },
+    {
+      "img": "Waggys_10_Valores-02_Innovación.png",
+      "title": "Innovación",
+      "desc": "Nos esforzamos por ser pioneros en el desarrollo de nuevos productos mediante la investigación y desarrollo fórmulas que aborden las necesidades específicas de las mascotas, manteniéndonos al tanto de los avances científicos y tecnológicos en salud animal."
+    },
+    {
+      "img": "Waggys_10_Valores-03_Colaboración.png",
+      "title": "Colaboración",
+      "desc": "Valoramos la colaboración con médicos veterinarios y expertos del sector para garantizar que nuestros productos sean efectivos y seguros, promoviendo la educación sobre la salud y el bienestar de las mascotas."
+    },
+    {
+      "img": "Waggys_10_Valores-04_Compromiso.png",
+      "title": "Compromiso con la seguridad",
+      "desc": "Priorizamos la seguridad de las mascotas y nos comprometemos a utilizar ingredientes naturales y seguros, así como procesos de fabricación de la más alta calidad para cumplir con las expectativas de nuestros clientes."
+    },
+    {
+      "img": "Waggys_10_Valores-05_Responsabilidad.png",
+      "title": "Responsabilidad ambiental",
+      "desc": "Nos preocupamos por el medio ambiente y nos comprometemos a minimizar nuestro impacto ambiental mediante el uso de prácticas de fabricación sostenibles y envases eco-amigables."
+    }
+  ],
+  "timeline": [
+    {
+      "fecha": "2020",
+      "descripcion": "Iniciamos operaciones y se lanza al mercado los premios para el manejo de estrés y ansiedad bajo la marca de Waggily.",
+      "img": "Waggys_10A_Banner_Timeline.jpg"
+    },
+    {
+      "fecha": "2021",
+      "descripcion": "Comenzamos a trabajar con nuestro primer distribuidor PetZoo para atacar la zona centro del país; así también, lanzamos los aceites de salmón en Amazon.",
+      "img": "Waggys_10B_Banner_Timeline.jpg"
+    },
+    {
+      "fecha": "2022",
+      "descripcion": "Waggy’s establece su planta de producción en Zapopan, Jalisco, y lanzamos los premios suaves Wellness y Calming.",
+      "img": "Waggys_10C_Banner_Timeline.jpg"
+    },
+    {
+      "fecha": "2023",
+      "descripcion": "Decidimos expandir la marca, y se crea el área de Waggy’s Medical, realizando el primer diplomado de CBD veterinario en México.",
+      "img": "Waggys_10D_Banner_Timeline.jpg"
+    },
+    {
+      "fecha": "2024",
+      "descripcion": "Hoy, Waggy’s sigue siendo una marca pionera en los usos de cannabis en veterinaria y en el cuidado de las mascotas que son parte fundamental de nuestras vidas.",
+      "img": "Waggys_10E_Banner_Timeline.jpg"
+    }
+  ]
+}

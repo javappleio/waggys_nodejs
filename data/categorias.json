@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "CBD para Perros",
+        "img": "/images/products/Aceites/Perros/Waggys_Amazon_Aceites_Perros-01.png",
+        "url": "cbd-para-perros"
+    },
+    {
+        "id": 2,
+        "title": "CBD para Gatos",
+        "img": "/images/Waggys_11C_Banner_Productos_Gatos.jpg",
+        "url": "cbd-para-gatos"
+    },
+    {
+        "id": 3,
+        "title": "CBD para Mascotas",
+        "img": "/images/products/Premios Originales/Waggys_Mockup_Premios_Originales_Minis_01.png",
+        "url": "cbd-para-mascotas"
+    },
+    {
+        "id": 4,
+        "title": "Jugetes para Perros y Gatos",
+        "img": "/images/products/Ratón Loco/Waggys_Amazon_Juguetes_Ratón_Loco-01.png",
+        "url": "juguetes-para-perros-y-gatos"
+    },
+    {
+        "id": 5,
+        "title": "Premios Naturales para Perros",
+        "img": "/images/products/Soft Chews/Soft Chews Calming/Perros/Waggys_Amazon_Soft_Chews_Calming_Perros-01.png",
+        "url": "premios-naturales-para-perros"
+    },
+    {
+        "id": 6,
+        "title": "Premios para Cachorros",
+        "img": "/images/products/Premios Originales/Waggys_Mockup_Premios_Originales_Minis_01.png",
+        "url": "premios-para-cachorros"
+    },
+    {
+        "id": 7,
+        "title": "Premios para Perros",
+        "img": "/images/products/Soft Chews/Soft Chews Wellness/Perros/Waggys_Amazon_Soft_Chews_Wellness_Perros-01.png",
+        "url": "premios-para-perros"
+    }
+]

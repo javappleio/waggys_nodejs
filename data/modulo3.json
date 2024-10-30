@@ -1,0 +1,152 @@
+[
+    {
+        "question": "¿Cuál es la responsabilidad del sistema endocannabinoide?",
+        "options": ["Transmitir impulsos nerviosos y neurotransmisores","Equilibrar procesos metabólicos y optimizar la función del cuerpo.","Mejorar la transducción eléctrica","Apoyar en la neurogénesis de la sustancia gris"],
+        "answer": "Equilibrar procesos metabólicos y optimizar la función del cuerpo."
+    },
+    {
+        "question": "El sistema endocannabinoide se encuentra en todos los animales vertebrados",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "En el perro hay una mayor concentración de receptores CB2 en cerebelo y tronco encefálico.",
+        "options": ["Verdadero","Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "¿Cuáles son los principales receptores del SEC?",
+        "options": ["TRPV1 y de la vainillina","Colinérgicos y serotoninérgicos","CB1 y CB2","Muscarínicos y nicotínicos"],
+        "answer": "CB1 y CB2"
+    },
+    {
+        "question": "Los fitocannabinoides en la epilepsia:",
+        "options": ["Aumentan los niveles de anandamida al inhibir a la FAAH","Aumenta los niveles de aspartato inhibiendo la convulsión","Inhibe la producción de GABA","Modula la respuesta de la 5HT en los receptores muscarínicos"],
+        "answer": "Aumentan los niveles de anandamida al inhibir a la FAAH"
+    },
+    {
+        "question": "Fitocannabinoide que tiene una función neuromoduladora que inhibe el efecto Kilding",
+        "options": ["CBG","CBN","CBD","THC"],
+        "answer": "THC"
+    },
+    {
+        "question": "El uso de CBD puro puede generar pérdida del grado de respuesta después de los 7 a 12 meses de uso",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "¿Cuál es la dosis terapéutica funcional de cannabinoides reportada en pacientes epilépticos?",
+        "options": ["0.5 mg/kg","1.0 mg/kg","1.5 mg/mg","2 a 2.5 mg/kg"],
+        "answer": "2 a 2.5 mg/kg"
+    },
+    {
+        "question": "A la patología que cursa o cursó por un proceso inflamatorio en el encéfalo y generó daños en él, pudiendo estos ser progresivos o secuelares ¿se le conoce cómo?",
+        "options": ["Enfermedad crónica","Enfermedad neurodegenerativa","Enfermedad vestibular","Enfermedad inflamatoria severa crónica"],
+        "answer": "Enfermedad neurodegenerativa"
+    },
+    {
+        "question": "Los cannabinoides tienen efectos positivos en las enfermedades neurodegenerativas",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Es un tipo de proceso anormal de las proteínas neuronales en las enfermedades neurodegenerativas",
+        "options": ["Anomalías en los genes que intervienen en el acoplamiento (splicing)","Generación de la beta oxidación en células sanas","Mal empaquetado de las células tumorales","Anomalía en la oxido-reducción de la síntesis de Novo"],
+        "answer": "Anomalías en los genes que intervienen en el acoplamiento (splicing)"
+    },
+    {
+        "question": "Los fitocannabinoides actúan en las enfermedades neurodegenerativas:",
+        "options": ["Disminuyendo la oncogénesis","Disminuyendo la producción de ON y TNF-ALFA","Incrementando la producción de ON y TNF-ALFA","Reduciendo la liberación de 5HT"],
+        "answer": "Disminuyendo la producción de ON y TNF-ALFA"
+    },
+    {
+        "question": "¿Cual es el receptor que tiene el potencial de estimular la neurogénesis y reducir la neuroinflamación?",
+        "options": ["5HT","Dopaminergicos","CB2","Receptores de tipo Vaniloide"],
+        "answer": "CB2"
+    },
+    {
+        "question": "Los cannabinoides pueden ser utilizados como tratamiento único en pacientes convulsivos",
+        "options": ["Verdadero","Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "¿Cuáles son los cannabinoides que tienen un perfil antioxidante?",
+        "options": ["Δ9-THC y CBD","Anandamida y EPA","2- Araquidonoilglicerol y Anandamida","Virhodamina y CBD"],
+        "answer": "Δ9-THC y CBD"
+    },
+    {
+        "question": "La Lysophosphatidilinositol (LPI) es una enzima que amplifica los impulsos nerviosos del hipocampo",
+        "options": ["Verdadero","Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "La activación de receptores CB1 del sistema nervioso:",
+        "options": ["Estimulan la excitabilidad neuronal","Inhiben la angiogénesis cerebral","Inhiben la excitabilidad neuronal","Estimulan la liberación de glutamato"],
+        "answer": "Inhiben la excitabilidad neuronal"
+    },
+    {
+        "question": "¿Cómo se maneja la dosificación de cannabinoides en pacientes convulsivos?",
+        "options": ["Dosis iniciales de 2 mg por kg","Dosis de más de 4 mg por kg","Dosis entre 4 y 8 mg por kg","Dosis en escalada con microdosis hasta llegar a 2 - 2.5 mg/kg"],
+        "answer": "Dosis en escalada con microdosis hasta llegar a 2 - 2.5 mg/kg"
+    },
+    {
+        "question": "El THC mal administrado puede:",
+        "options": ["Ocasionar crisis epilépticas","Disminuir las crisis epilépticas","Promover el secuestro de anandamida","Estimular la liberación de glutation"],
+        "answer": "Ocasionar crisis epilépticas"
+    },
+    {
+        "question": "Una convulsión refractaria es:",
+        "options": ["Aquella cuya duración es muy prolongada","Aquella que no responde a tratamientos convencionales","Aquella que dura de una forma crónica","Ninguna de la anteriores"],
+        "answer": "Aquella que no responde a tratamientos convencionales"
+    },
+    {
+        "question": "Los receptores CB1 son afines a:",
+        "options": ["5HT","2-AG","Anandamida","TRPV1"],
+        "answer": "Anandamida"
+    },
+    {
+        "question": "Los receptores CB2 son afines a:",
+        "options": ["5HT","2-AG","Anandamida","TRPV1"],
+        "answer": "2-AG"
+    },
+    {
+        "question": "Los endocannabinoides más estudiados son:",
+        "options": ["Anandamida y 2-AG","THC y CBD","CBD y CBG","CDB y CBN"],
+        "answer": "Anandamida y 2-AG"
+    },
+    {
+        "question": "Los fitocannabinoides se metabolizan:",
+        "options": ["Por vía renal en el glomérulo","Por vía intestinal con la bilis (compuesto lipofílico)","Por vía hepática en el citocromo P450","Por vía entero-portal"],
+        "answer": "Por vía hepática en el citocromo P450"
+    },
+    {
+        "question": "El THC tiene un efecto similar a:",
+        "options": ["Anandamida","2-AG","CBN","CBD"],
+        "answer": "Anandamida"
+    },
+    {
+        "question": "El CBD tiene un efecto similar a:",
+        "options": ["Anandamida","2-AG","CBN","CBD"],
+        "answer": "2-AG"
+    },
+    {
+        "question": "El sistema endocannabinoide, a diferencia de los neurotransmisores, realiza sus funciones en el siguiente orden:",
+        "options": ["Normal","Presinapsis-sinapsis-postsinapsis","sinapsis- presinapsis-postsinapsis","postsinapsis-sinapsis-presinapsis (regulación retrograda)"],
+        "answer": "postsinapsis-sinapsis-presinapsis (regulación retrograda)"
+    },
+    {
+        "question": "Grupo de fármacos con los que hacen sinergia los fitocannabinoides:",
+        "options": ["Fenobarbital","Benzodiazepinas","Inmunoestimulantes","Glucoestimulantes"],
+        "answer": "Benzodiazepinas"
+    },
+    {
+        "question": "Grupo de fármacos con los que hacen sinergia los fitocannabinoides:",
+        "options": ["Fenobarbital","Gabapentinoides","Inmunoestimulantes","Glucoestimulantes"],
+        "answer": "Gabapentinoides"
+    },
+    {
+        "question": "El uso de esteroides en conjunto con fitocannabinoides:",
+        "options": ["Aumenta el efecto de los esteroides","Aumenta el efecto de los cannabinoides","Disminuye el efecto de los cannabinoides","Ninguna de las anteriores"],
+        "answer": "Aumenta el efecto de los cannabinoides"
+    }
+]

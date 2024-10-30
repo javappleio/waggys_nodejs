@@ -1,0 +1,367 @@
+[
+      {
+        "question": "Según las fuentes, la planta de Cannabis tiene sus orígenes en:",
+        "options": ["América del Sur", "Europa central", "América del Norte", "Asía central"],
+        "answer": "Asía central"
+      },
+      {
+        "question": "La planta de la Cannabis se comenzó a investigar para:",
+        "options": ["Satisfacer la curiosidad de saber cuáles eran los componentes de la planta con fines medicinales.", "Realizar una búsqueda de nuevas alternativas para tratamientos de patologías en el ser humano.", "Entender cuál es el mecanismo de acción de la planta en el sistema nervioso por su alto potencial adictivo derivado del incremento en el consumo.", "Mejorar el entendimiento de los conocimientos ancestrales", "Tener una alternativa extra en el manejo de la ansiedad y el estrés."],
+        "answer": "Entender cuál es el mecanismo de acción de la planta en el sistema nervioso por su alto potencial adictivo derivado del incremento en el consumo."
+      },
+      {
+        "question": "Uno de los usos que los egipcios le daban a la planta de Cannabis es:",
+        "options": ["Ornamento","Adorno de vasijas","Arma en batallas","Agente para fumigar y óvulos medicinales","Sahumerios y baños coloidales"],
+        "answer": "Agente para fumigar y óvulos medicinales"
+      },
+      {
+        "question": "¿A quién se le considera como el abuelo de la investigación con Cannabis en humanos?",
+        "options": [
+            "García de Orta",
+            "Sir William Brooke O’Shaughnessy",
+            "Shen Nong Ben Cao Jing",
+            "Athar Va Vedha",
+            "William Jhones Smith"],
+        "answer": "Sir William Brooke O’Shaughnessy"
+      },
+      {
+        "question": "Además del uso como remedio medicinal ¿Qué otro uso tenía el cáñamo en las culturas antiguas?",
+        "options": [
+            "Como fuente de fibras vegetales para la elaboración de cuerdas y ropa",
+            "Como fuente de leña para cocinar",
+            "Únicamente como uso lúdico",
+            "Solo uso como remedio",
+            "Como alimento para los animales"],
+        "answer": "Como fuente de fibras vegetales para la elaboración de cuerdas y ropa"
+      },
+      {
+        "question": "¿Quién es considerado como el padre de la investigación moderna en Cannabis? ",
+        "options": [
+            "Raphael Mechoulam",
+            "Roger Adams",
+            "García de Orta",
+            "William Brooke",
+            "William Devane"],
+        "answer": "Raphael Mechoulam"
+      },
+      {
+        "question": "¿Cual es la molécula que identificó Rapahel Mechoulam en la planta de la Cannabis como el agente causal de intoxicación y efectos psicoactivos?",
+        "options": [
+            "CBG",
+            "CBN",
+            "CBD",
+            "THC (Delta 9 Tetrahidrocannabinol)",
+            "CBDA"],
+        "answer": "THC (Delta 9 Tetrahidrocannabinol)"
+      },
+      {
+        "question": "Fue el químico que descubrió la molécula de CBD aunque a menudo no se le da crédito por no haber descrito su composición química.",
+        "options": [
+            "Roger Adams",
+            "Raphael Mechoulam",
+            "García de Orta",
+            "William Brooke",
+            "William Devane"],
+        "answer": "Roger Adams"
+      },
+      {
+        "question": "¿Cuales fueron los receptores que se descubrieron en 1988 y que dieron paso al inicio del estudio del sistema endocannabinoide?",
+        "options": [
+            "TRPV1",
+            "CBDnoides",
+            "CB2",
+            "CB1",
+            "PPAR’s"],
+        "answer": "CB1"
+      },
+      {
+        "question": "¿Cómo se le llama a las sustancias que se sintetizan en el sistema endocannabinoide y cuyas funciones son la neuromodulación y la inmunomodulación?",
+        "options": [
+            "Receptores cannabinoides",
+            "Ligandos endógenos (endocannabinoides)",
+            "Enzimas moduladoras",
+            "Enzimas degradadoras",
+            "Receptores huerfanos"],
+        "answer": "Ligandos endógenos (endocannabinoides)"
+      },
+      {
+        "question": "¿Cómo se conforma el sistema endocannabinoide?",
+        "options": [
+            "Enzimas, receptores y ligandos endógenos (endocannabinoides)",
+            "Enzimas, fitocannabinoides y receptores",
+            "Fitocannabinoides, endocannabinoides y cannabinoides sintéticos",
+            "Enzimas, endocannabinoides sintéticos y receptores",
+            "Enzimas, neuromoduladores e inmunomoduladores"],
+        "answer": "Enzimas, receptores y ligandos endógenos (endocannabinoides)"
+      },
+      {
+        "question": "¿Cuál es la función principal del sistema endocannabinoide (SEC) en animales?",
+        "options": [
+            "Regular la presión sanguínea",
+            "Mantener la homeostasis",
+            "Digestión del alimento",
+            "Control del movimiento muscular"],
+        "answer": "Mantener la homeostasis"
+      },
+      {
+        "question": "¿Cuál de los siguientes NO es un componente del sistema endocannabinoide (SEC) de los animales?",
+        "options": [
+            "Endocannabinoides",
+            "Receptores cannabinoides",
+            "Enzimas",
+            "Insulina"],
+        "answer": "Insulina"
+      },
+      {
+        "question": "¿Cuál es el tipo de receptor cannabinoide que se encuentra predominantemente en el sistema nervioso central de los animales?",
+        "options": [
+            "CB1",
+            "CB2",
+            "CB3",
+            "CB4"],
+        "answer": "CB1"
+      },
+      {
+        "question": "Los endocannabinoides son sintetizados bajo demanda y so derivados de una clase de lípidos llamada:",
+        "options": [
+            "Fosfolípidos",
+            "Esteroides",
+            "Triacilgliceroles",
+            "Proteínas"],
+        "answer": "Fosfolípidos"
+      },
+      {
+        "question": "La anandamida es un ejemplo de cual endocannabinoide en animales:",
+        "options": [
+            "THC",
+            "CBD",
+            "2-AG",
+            "AEA"],
+        "answer": "AEA"
+      },
+      {
+        "question": "¿Con que sistemas y funciones se asocian principalmente los receptores CB2?",
+        "options": [
+            "Cardiovascular y respiratorio",
+            "Digestivo y reproductivo",
+            "Inmune e inflamatorio",
+            "Endócrino y excretor"],
+        "answer": "Inmune e inflamatorio"
+      },
+      {
+        "question": "¿Cuál es la principal enzima responsable de degradar la anandamida en animales?",
+        "options": [
+            "Fosfolipasa C",
+            "Aminohidroxilasa de ácidos grasos (FAAH)",
+            "Ciclooxigenasa (COX)",
+            "Monoaminooxidasa (MAO)"],
+        "answer": "Aminohidroxilasa de ácidos grasos (FAAH)"
+      },
+      {
+        "question": "¿En cuál de las especies animales se ha encontrado que poseen un sistema endocannabinoide?",
+        "options": [
+            "Solo en humanos",
+            "Solo en mamíferos",
+            "Todos los vertebrados incluidos mamíferos, peces y reptiles",
+            "Invertebrados como insectos y moluscos"],
+        "answer": "Todos los vertebrados incluidos mamíferos, peces y reptiles"
+      },
+      {
+        "question": "¿Cuál es el papel de los endocannabinoides en la regulación del apetito en animales?",
+        "options": [
+            "Incrementan el apetito",
+            "Disminuyen el apetito",
+            "No tienen efecto en el apetito",
+            "Solo regulan la sed, no el apetito"],
+        "answer": "Incrementan el apetito"
+      },
+      {
+        "question": "En animales, el sistema endocannabinoide está involucrado en la modulación de la percepción del dolor y la respuesta. ¿Cuál de los siguientes receptores es el principal responsable de esta función?",
+        "options": [
+            "Receptores CB1",
+            "Receptores CB2",
+            "Receptores CB3",
+            "TRPV1"],
+        "answer": "Receptores CB1"
+      },
+      {
+        "question": "¿Cuál enzima es la responsable de la degradación de 2-AG?",
+        "options": [
+            "COX-1",
+            "MAGL",
+            "COX-2",
+            "TRPV1"],
+        "answer": "MAGL"
+      },
+      {
+        "question": "¿Cuál de los siguientes animales está siendo estudiado extensamente debido a sistema endocannabinoide? ",
+        "options": [
+            "Pez dorado",
+            "Dragón de Komodo",
+            "Perro",
+            "Caracoles"],
+        "answer": "Perro"
+      },
+      {
+        "question": "¿A qué puede conducir potencialmente una deficiencia de SEC en términos de salud general?",
+        "options": [
+            "Mejorar la función inmune",
+            "Incrementar la resistencia a infecciones",
+            "Desregulación de varios procesos fisiológicos",
+            "Mejorar las habilidades cognitivas"],
+        "answer": "Desregulación de varios procesos fisiológicos"
+      },
+      {
+        "question": "En animales, ¿Qué tipo de desorden podría resultar de una desregulación del sistema endocannabinoide?",
+        "options": [
+            "Desordenes digestivos",
+            "Psicosis relacionada con el sistema endocannabinoide",
+            "Desordenes neurológicos e inmunes",
+            "Desordenes de perdida de plumas"],
+        "answer": "Desordenes neurológicos e inmunes"
+      },
+      {
+        "question": "¿Cuál de los siguientes compuestos no es un endocannabinoide que se encuentre en animales?",
+        "options": [
+            "2-AG",
+            "Anandamida",
+            "Cannabidiol (CBD)",
+            "NADA (N-araquidonoildopamina)"],
+        "answer": "Cannabidiol (CBD)"
+      },
+      {
+        "question": "¿Qué aspectos de la fisiología de los animales están regulados principalmente por el sistema endocannabinoide?",
+        "options": [
+            "Apetito, estado de ánimo y sueño",
+            "Visión, audición y gusto.",
+            "Tipo de sangre y frecuencia cardiaca",
+            "Crecimiento de cabello y pelaje"],
+        "answer": "Apetito, estado de ánimo y sueño"
+      },
+      {
+        "question": "¿Cuál es el papel de los endocannabinoides en la percepción del dolor en los animales?",
+        "options": [
+            "Incrementa la sensibilidad al dolor",
+            "Disminuye la percepción del dolor",
+            "No tiene un efecto en la sensibilidad al dolor",
+            "Solo se afecta en dolor crónico"],
+        "answer": "Disminuye la percepción del dolor"
+      },
+      {
+        "question": "¿En qué tipo de animales se han estudiado las deficiencias de los endocannabinoides?",
+        "options": [
+            "Aves",
+            "Anfibios",
+            "Mamíferos",
+            "Insectos"],
+        "answer": "Mamíferos"
+      },
+      {
+        "question": "La manipulación del sistema endocannabinoide en animales podría tener un potencial terapéutico en:",
+        "options": [
+            "Mejorar la visión nocturna",
+            "Tratamiento de la epilepsia, ansiedad y dolor",
+            "Incrementar la talla y la fuerza",
+            "Control de infestaciones de insectos"],
+        "answer": "Tratamiento de la epilepsia, ansiedad y dolor"
+      },
+      {
+        "question": "¿Cuál es el papel protector del sistema endocannabinoide en terapias potenciales para enfermedades neurodegenerativas y lesiones cerebrales asociadas a traumas?",
+        "options": [
+            "Mediante un incremento en la severidad de estas condiciones",
+            "Mediante la promoción de la pérdida de memoria",
+            "Mediante la inhibición del desarrollo celular",
+            "Mediante una reducción de la neuroinflamación y apoyo en la supervivencia de las células nerviosas."],
+        "answer": "Mediante una reducción de la neuroinflamación y apoyo en la supervivencia de las células nerviosas."
+      },
+      {
+        "question": "¿De qué manera puede ser crucial para la salud cerebral a largo plazo el funcionamiento del sistema endocannabinoide durante el desarrollo neurológico del embrión?",
+        "options": [
+            "No tiene un impacto en la salud cerebral a largo plazo",
+            "Da como resultado la aparición temprana de la neurodegeneración",
+            "Puede sentar las bases para una función cerebral saludable durante toda la vida",
+            "Conduce al deterioro cognitivo en la edad adulta."],
+        "answer": "Puede sentar las bases para una función cerebral saludable durante toda la vida"
+      },
+      {
+        "question": "Son dos razones por las que el Servicio nacional de Sanidad, Inocuidad y Calidad Agroalimentaria protege la inocuidad y sanidad.",
+        "options": [
+            "Abasto de alimentos sanos e inocuos para la población y reducir el riesgo de entrada y diseminación de plagas o enfermedades que afecten gravemente la actividad agropecuaria, acuicola y pesquera.",
+            "Cobro de impuestos y mayor recaudación fiscal",
+            "Mantener la competencia economica y evitar la pirateria",
+            "Promover el consumo de alimentos de primera calidad y a buenos precios"],
+        "answer": "Abasto de alimentos sanos e inocuos para la población y reducir el riesgo de entrada y diseminación de plagas o enfermedades que afecten gravemente la actividad agropecuaria, acuicola y pesquera."
+      },
+      {
+        "question": "¿Qué aspectos regula la NOM-012-ZOO-1993 “Especificaciones para la regulación de productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumo por éstos” y sus modificaciones?",
+        "options": [
+            "El consumo de materias primas en pro de los animales en México",
+            "El ingreso de moléculas innovadoras al mercado mexicano",
+            "La producción y uso de productos, moléculas e ingredientes que están destinados al consumo animal.",
+            "La sanidad y la inocuidad de los alimentos de origen animal."],
+        "answer": "La producción y uso de productos, moléculas e ingredientes que están destinados al consumo animal."
+      },
+      {
+        "question": "¿Qué aspectos regula la NOM-064-ZOO-2000, Lineamientos para la clasificación y prescripción de productos farmacéuticos veterinarios por el nivel de riesgo de sus ingredientes activos?",
+        "options": [
+            "La clasificación y uso de los productos farmacéuticos destinados para uso veterinario",
+            "La dosificación y manufactura de los productos farmacológicos",
+            "La concentración de los principios activos y la vigilancia farmacológica",
+            "La manufactura y la vigilancia de los productos farmacéuticos veterinarios."],
+        "answer": "La clasificación y uso de los productos farmacéuticos destinados para uso veterinario"
+      },
+      {
+        "question": "Tres productos que requieren registro son:",
+        "options": [
+            "Alimentos, bebidas y biológicos veterinarios",
+            "Desinfectantes/sanitizantes que tengan contacto con el animal vivo, farmacéuticos y biológicos",
+            "Farmacéuticos, alimentos de origen animal y desparasitantes",
+            "Desparasitantes, premezclas y biológicos"],
+        "answer": "Desinfectantes/sanitizantes que tengan contacto con el animal vivo, farmacéuticos y biológicos"
+      },
+      {
+        "question": "Menciona tres productos que requieren autorización",
+        "options": [
+            "Premezclas, harinas de origen animal y premezclas medicadas",
+            "Fármacos, premezclas y biológicos",
+            "Desparasitantes, harinas y fármacos",
+            "Nutraceuticos, desparasitantes y sanitizantes"],
+        "answer": "Premezclas, harinas de origen animal y premezclas medicadas"
+      },
+      {
+        "question": "Menciona 3 productos desregulados",
+        "options": [
+            "Desinfectantes de superficie inertes, CBD y productos de bajo riesgo zoosanitario.",
+            "CBD, desinfectantes para piel y premezclas.",
+            "Desinfectantes de piel, fármacos y premezclas",
+            "CBD, THC y CBG"],
+        "answer": "Desinfectantes de superficie inertes, CBD y productos de bajo riesgo zoosanitario."
+      },
+      {
+        "question": "El Clenbuterol es un principio activo:",
+        "options": [
+            "Prohibido",
+            "Restringido",
+            "Desregulado",
+            "Adictivo"],
+        "answer": "Prohibido"
+      },
+      {
+        "question": "La normatividad nacional vigente regula:",
+        "options": [
+            "El producto",
+            "La materia prima",
+            "Ambas",
+            "Los registros de productos para uso veterinario"],
+        "answer": "El producto"
+      },
+      {
+        "question": "¿Qué elementos deben considerarse para determinar si un producto es desregulado?",
+        "options": [
+            "Bajo riesgo zoosanitario y que en su composición no contenga una sustancia registrada",
+            "Alto riesgo zoosanitario y que cuente con registro",
+            "Medio riesgo zoosanitario y composición con fármacos",
+            "Bajo riesgo zoosanitario y en su composición contenga premezcla medicada"],
+        "answer": "Bajo riesgo zoosanitario y que en su composición no contenga una sustancia registrada"
+      }
+    ]

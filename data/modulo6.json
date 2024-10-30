@@ -1,0 +1,152 @@
+[
+    {
+        "question": "En sus inicios, los gatos fueron utilizados como modelos para ver los efectos del THC y transpolar los resultados a humanos:",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "La mucosa oral de los gatos expresa receptores cannabinoides por lo que el uso de CBD esta recomendado en enfermedades inflamatorias de la mucosa oral:",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El sistema endocannabinoide en gatos desempeña un papel muy importante en el mantenimiento de la homeostasis de la mucosa oral.",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El uso de cannabinoides en gatos es seguro y presentan buena toleranci y respuesta a estas moléculas",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Los efectos adversos que presentan gatos con sobredosificación con CBD son leves y se presentan dentro de las primeras 24 horas postdministración",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "¿Cual es la dosis de cannabinoides recomendada para iniciar un tratamiento en gatos?",
+        "options": ["2 mg/kg cada 24 horas", "0.5 mg/kg cada 24 horas", "8 mg/kg cada 12 horas", "8 mg/kg cada 24 horas"],
+        "answer": "0.5 mg/kg cada 24 horas"
+    },
+    {
+        "question": "Una vez establecido el tratamiento con cannabinoides en gatos, el protocolo de administración y monitoreo recomendado es:",
+        "options": ["Aumentar la frecuencia de administración cada 3 días y se evaluan objetivos para determinar cambios en la dosificación. Se recomienda en un inicio establecer controles cada 3 días.", "Administrar la dosis más alta y mantenerla así durante todo el tiempo que dure el tratamiento.", "Administrar dosis altas durante todo el tratamiento, no se recomienda hacer control ni evaluación de dosis", "No hay protocolo de seguimiento, valoración y dosificación de cannabinoides en gatos."],
+        "answer": "Aumentar la frecuencia de administración cada 3 días y se evaluan objetivos para determinar cambios en la dosificación. Se recomienda en un inicio establecer controles cada 3 días."
+    },
+    {
+        "question": "La enfermedad articular degenerativa (EAD) en felinos tiene una prevalencia alta y el 40% de los gatos presentan signos clínicos relacionados con dolor",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Algunos de los signos más frecuentes que nos indican que el gato puede presentar EAD son:",
+        "options": ["Aftas en piel y mucosas, fiebre y baja de apetito", "Diarrea, vómito y fiebre", "Dolor, reducción en la actividad física, dificultad para saltar o sentarse, disminución en el aseo y claudicación o marcha rígida.", "Aftas en piel y mucosas, fiebre, baja de apetito, diarrea, vómito y fiebre"],
+        "answer": "Dolor, reducción en la actividad física, dificultad para saltar o sentarse, disminución en el aseo y claudicación o marcha rígida."
+    },
+    {
+        "question": "¿Recomendarías usar cannabinoides como auxiliar en el manejo del dolor en EAD felina?",
+        "options": ["Sí, porque hay evidencia científica que respalda que el uso de cannabinoides en condiciones de osteoartritis mejora las condiciones de dolor, inflamación y movilidad de los pacientes felinos.", "No, porque a la fecha los cannabinoides no se consideran como terapéuticos dada la escasa o nula evidencia científica que respalda su uso en diversas condiciones patológicas."],
+        "answer": "Sí, porque hay evidencia científica que respalda que el uso de cannabinoides en condiciones de osteoartritis mejora las condiciones de dolor, inflamación y movilidad de los pacientes felinos."
+    },
+    {
+        "question": "Los componentes más comunes de los urolitos en gatos son de estruvita y fosfato dicálcico.",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "La urolitiasis puede ser vesical o uretral",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Las neoplasias del tracto urinario se presentan principalmente en gatos mayores de 10 años",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "La cistitis intersticial felina es el tipo de cistitis de mayor presentación en gatos",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Es una de las condiciones que se asocian a la presentación de la cistitis intersticial felina",
+        "options": ["Estrés", "Consumo de agua", "Bienestar", "Acicalamiento"],
+        "answer": "Estrés"
+    },
+    {
+        "question": "Uno de los mecanismos que genera el estrés es:",
+        "options": ["Altera al gato provocando una inmunoestimulación que genera un exceso en la producción de defensas del organismo", "Altera la regulación neuroendocrina del sistema inmunológico, lo que trae como resultado una inmunosupresión.", "Aumenta la producción de células de la defensa en el organismo", "El estrés tiene efectos inmunoestimulantes, lo cual es deseable ya que ayuda a combatir agentes patógenos."],
+        "answer": "Altera la regulación neuroendocrina del sistema inmunológico, lo que trae como resultado una inmunosupresión."
+    },
+    {
+        "question": "Los factores con respecto al estrés que se deben de tomar en cuenta para el tratamiento de la cistitis son:",
+        "options": ["El estrés propio de la enfermedad, el entorno del gato, el estrés de la consulta y el estrés de la medicación", "Temperatura, condición corporal del gato, manejo del arenero y cuadro de vacunación completo.", "Tratamiento, nutrición, bienestar y relajación con cannabinoides", "Ninguna de las anteriores"],
+        "answer": "El estrés propio de la enfermedad, el entorno del gato, el estrés de la consulta y el estrés de la medicación"
+    },
+    {
+        "question": "El uso de cannabinoides en la cistitis intersticial felina esta indicado para el manejo del estrés y la inflamación",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El uso de cannabinoides de forma crónica está recomendado ya que tiene una alta seguridad y tolerancia en gatos. Como consideración importante hay que valorar al paciente cada 3 a 6 meses con pruebas sanguíneas para hacer ajustes en tratamiento y/o dosificaciones.",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El uso de cannabinoides no se recomienda en Cistitis felina ya que puede generar obstrucción y problemas de estrés en gatos",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Falso"
+    },
+    {
+        "question": "A la enfermedad inflamatoria difusa de la cavidad oral, mucosa gingival y del resto del epitelio bucal que puede ser leve, moderada o grave en felinos se le conoce como.",
+        "options": ["Gingivoestomatitis felina crónica (GECF)", "Enfermedad linfoplasmocítica felina crónica", "Estomatitis vesicular inflamatoria plasmocítica aguda", "Enfermedad de las células plasmáticas aguda"],
+        "answer": "Gingivoestomatitis felina crónica (GECF)"
+    },
+    {
+        "question": "Existen dos tipo de presentación de la GECF: ulcerosa y proliferativa",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Factores predisponentes para la presentación de la GECF son enfermedad periodontal y bacterias en cavidad oral",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Algunos de los signos clínicos que se presentan en gatos con GECF son: Disfagia, gingivitis, salivación excesiva y sangrado bucal.",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Para el tratamiento de la GECF se recomienda:",
+        "options": ["Manejo del dolor, disminución de la carga bacteriana, manejo de la enfermedad periodontal y dieta blanda.", "Como primera elección la eutanasia" ,"Manejo con quimioterapeuticos y antimitóticos", "Uso de azoles y antibioticos por via oral y parenteral"],
+        "answer": "Manejo del dolor, disminución de la carga bacteriana, manejo de la enfermedad periodontal y dieta blanda."
+    },
+    {
+        "question": "Debido a que los gatos tienen receptores cannabinoides en la mucosa oral cuando están sanos o presentan inflamación en la mucosa, se recomienda el uso de cannabinoides como un auxiliar en el manejo de la GECF",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "El uso de cannabis en el manejo de la GECF puede mejorar la calidad de vida del paciente felino",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Los receptores cannabinoides también se expresan en el oviducto de los felinos",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Es muy importante que los productos con cannabinoides para gatos tengan una buena palatabilidad para mejorar la aceptación y consumo del producto",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Los fitocannabinoides presentes en Cannabis son una excelente herramienta en el tratamiento de distintas patologías en felinos",
+        "options": ["Verdadero", "Falso"],
+        "answer": "Verdadero"
+    }
+]

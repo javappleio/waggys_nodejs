@@ -1,0 +1,145 @@
+{
+  "seo": {
+    "title": "Waggy's Medical",
+    "metadescription": "Los Premios Relajantes para Mascotas más recomendados por Veterinarios, Ideales para Ansiedad por Separación, Insomnio, Miedos, Agresividad, Nerviosismo, Estrés e Hiperactividad. Con Ingredientes Activos 100% Naturales.",
+    "url": "/medical"
+  },
+    "hero": {
+        "titulo": "Bienvenidos",
+        "desc": "Waggy’s Medical es una plataforma que ofrece recursos educativos de alta calidad, investigaciones de vanguardia y herramientas prácticas que permitan a los profesionales veterinarios tomar decisiones informadas y éticas sobre la integración del cannabis en sus tratamientos.",
+        "boton": "Pre-Registro",
+        "url": "https://forms.gle/aenNSbu6KrLcCabSA",
+        "imagen": "Waggys_Bienvenidos_01.jpg",
+        "imagen2": "Waggys_Bienvenidos_02.jpg"
+    },
+    "logo_carrusel": [
+        "logo1.png",
+        "logo2.png",
+        "logo3.png",
+        "logo4.png",
+        "logo5.png"
+    ],
+    "modulos": {
+        "titulo": "9 de Noviembre / Modalidad Online",
+        "sub": "Aplicación clínica de cannabinoides en medicina canina y felina",
+        "texto": "Amplía tus conocimientos en el manejo y uso de los cannabinoides en las diferentes áreas que integran la práctica clínica diaria. Mejora tus habilidades con herramientas que te permitan tomar decisiones informadas y éticas sobre la integración del cannabis en tus tratamientos.",
+        "modulos": [
+            {
+              "img": "Waggys_Módulo_01.jpg",
+              "title": "Módulo 1",
+              "description": "Bases científicas"
+            },
+            {
+              "img": "Waggys_Módulo_02.jpg",
+              "title": "Módulo 2",
+              "description": "Modulación del dolor"
+            },
+            {
+              "img": "Waggys_Módulo_03.jpg",
+              "title": "Módulo 3",
+              "description": "Neurobiología"
+            },
+            {
+              "img": "Waggys_Módulo_04.jpg",
+              "title": "Módulo 4",
+              "description": "Dermatología"
+            },
+            {
+              "img": "Waggys_Módulo_05.jpg",
+              "title": "Módulo 5",
+              "description": "Oncología"
+            },
+            {
+              "img": "Waggys_Módulo_06.jpg",
+              "title": "Módulo 6",
+              "description": "Medicina Felina"
+            },
+            {
+              "img": "Waggys_Módulo_07.jpg",
+              "title": "Módulo 7",
+              "description": "Parasitología"
+            }
+        ]
+    },
+    "equipo": {
+        "titulo": "Nuestro equipo",
+        "sub": "Waggy’s Medical cuenta con el respaldo de un equipo de médicos veterinarios expertos en el tema y la industria del cannabis medicinal.",
+        "team": [
+            {
+              "img": "Waggys_Equipo_09_Mauricio_Arredondo.jpeg",
+              "name": "MVZ MC Mauricio Arredondo Castro"
+            },
+            {
+              "img": "Waggys_Equipo_07_Monica_Ghenno.jpg",
+              "name": "MVZ Mónica Ghenno"
+            },
+            {
+              "img": "Waggys_Equipo_Camilo_02.jpg",
+              "name": "Dr. João Gewehr"
+            },
+            {
+              "img": "Waggys_Equipo_Camilo_03.jpg",
+              "name": "Dr. Camilo Romero Núñez"
+            },
+            {
+              "img": "Waggys_Equipo_08_Manuel_Pérez.jpg",
+              "name": "MVZ Manuel Peréz"
+            },
+            {
+              "img": "Waggys_Equipo_Camilo_04.jpg",
+              "name": "MVZ EMCPG Rocío Ortega"
+            },
+            {
+              "img": "Waggys_Equipo_Camilo_05.jpg",
+              "name": "MVZ PNC Raúl Leyva"
+            },
+            {
+              "img": "Waggys_Equipo_06_Danila_Ruiz.jpg",
+              "name": "MVZ EMCPG Danila Ruíz"
+            },
+            {
+              "img": "Waggys_Equipo_Camilo_07.jpg",
+              "name": "MVZ Sandra López"
+            }
+        ]
+    },
+    "faqs": {
+        "titulo": "FAQs",
+        "sub": "Preguntas Frecuentes",
+        "texto": "Explora esta sección para obtener información detallada y aclarar cualquier duda que puedas tener sobre nuestra organización y los temas que abordamos. Si no encuentras la respuesta que buscas, no dudes en ponerte en contacto con nosotros para obtener asistencia adicional.",
+        "preguntas": [
+            {
+              "question": "¿Qué cubre el diplomado: Aplicación clínica de cannabinoides en medicina canina y felina?",
+              "answer": "El diplomado abarca temas clave relacionados con el uso de cannabis en medicina veterinaria, incluyendo la ciencia detrás de los cannabinoides y sus aplicaciones terapéuticas en animales. También exploramos casos de estudio y las últimas investigaciones en los campos de oncología, medicina felina, neurología, dermatología, gastroenterología, parasitología y manejo del dolor."
+            },
+            {
+              "question": "¿Cuál es el costo del diplomado?",
+              "answer": "El costo del diplomado será de $5,000 MXN al adquirir un producto de la marca Waggy's con cualquiera de nuestros distribuidores autorizados."
+            },
+            {
+              "question": "¿Quién puede beneficiarse de este diplomado?",
+              "answer": "Este diplomado está diseñado para veterinarios, profesionales de la salud animal, dueños de mascotas interesados en la medicina natural y cualquier persona que quiera comprender mejor el uso de cannabis en el tratamiento de enfermedades en animales."
+            },
+            {
+              "question": "¿Cuáles son las credenciales de los instructores del diplomado?",
+              "answer": "Nuestros instructores son expertos en medicina veterinaria reconocidos internacionalmente y cuentan con una amplia experiencia en el uso de cannabis en animales. Adicionalmente todos ellos cuentan con vasta experiencia práctica para brindar una educación de alta calidad."
+            },
+            {
+              "question": "¿Cuál es el formato del curso y la duración del diplomado?",
+              "answer": "El diplomado se ofrece en línea, lo que te permite acceder a las lecciones desde cualquier lugar. La duración del curso puede variar, pero típicamente consta de módulos que puedes completar a tu propio ritmo durante un período de tiempo establecido, generalmente de 8 a 12 semanas."
+            },
+            {
+              "question": "¿Recibiré un certificado al completar el diplomado?",
+              "answer": "Sí, al finalizar con éxito el diplomado y aprobar los exámenes, recibirás un certificado que acredita tu participación y el conocimiento adquirido en el curso certificado por la Concervet y avalado por la Federación Mexicana de Cannabis Veterinaria, Bliss Education de Brasil y por la Universidad de GTO."
+            },
+            {
+              "question": "¿Qué recursos adicionales se proporcionan a los estudiantes?",
+              "answer": "Además de las lecciones en línea, los estudiantes tendrán acceso a materiales de lectura complementarios, recursos de investigación y foros de discusión para interactuar con otros participantes y los instructores."
+            },
+            {
+              "question": "¿Dónde puedo obtener más información sobre el contenido del diplomado y cómo inscribirme?",
+              "answer": "Para obtener más información sobre el contenido del diplomado, los requisitos de inscripción y el proceso de registro, le invitamos a realizar su pre registro o ponerse en contacto con nuestro equipo de atención al cliente."
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "Waggy's Premios anti Estrés y Ansiedad para Mascotas – Waggys.pet",
+    "metadescription": "Los Premios Relajantes para Mascotas más recomendados por Veterinarios, Ideales para Ansiedad por Separación, Insomnio, Miedos, Agresividad, Nerviosismo, Estrés e Hiperactividad. Con Ingredientes Activos 100% Naturales.",
+    "url": "/"
+  },
+  "hero": [
+    {
+      "title": "Waggy's",
+      "subtitle": "Yo sí amo a mis mascotas",
+      "boton": "Conócenos",
+      "url": "/nosotros",
+      "image": "Waggys_01A_Banner_Home.jpg"
+    },
+    {
+      "title": "",
+      "subtitle": "Waggy's Medical",
+      "boton": "Ir al sitio",
+      "url": "/medical",
+      "image": "Waggys_01B_Banner_Home.jpg"
+    },
+    {
+      "title": "Tu mascota sin estrés",
+      "subtitle": "Dale a tus mascotas la tranquilidad que merecen",
+      "boton": "Comprar",
+      "url": "/collections",
+      "image": "Waggys_01C_Banner_Home.jpg"
+    }
+  ],
+  "conocenos": {
+    "title": "Conoce Waggy's",
+    "subtitle": "Los premios y aceites Waggy’s son una gran opción que ayudan a mejorar la salud y el bienestar de tu mascota.",
+    "categorias": [
+      {
+        "title": "Perros",
+        "image": "Waggys_02A_Categorías_Perros.png",
+        "url": "/collections/cbd-para-perros"
+      },
+      {
+        "title": "Gatos",
+        "image": "Waggys_02B_Categorías_Perros.png",
+        "url": "/collections/cbd-para-gatos"
+      },
+      {
+        "title": "Aceites",
+        "image": "Waggys_02C_Categorías_Perros.png",
+        "url": "/collections/aceites"
+      },
+      {
+        "title": "Premios",
+        "image": "Waggys_02D_Categorías_Perros.png",
+        "url": "/collections/cbd-para-mascotas"
+      },
+      {
+        "title": "Juguetes",
+        "image": "Waggys_02E_Categorías_Perros.png",
+        "url": "/juguetes-para-perros-y-gatos"
+      }
+    ]
+  },
+  "banners": [
+    {
+      "title": "¿Necesitas ayuda para elegir tus productos?",
+      "subtitle": "Sabemos que cada peludito es único y especial, con necesidades y preferencias que merecen ser atendidas de manera personalizada. Por eso, creamos un breve quiz que te ayudará a elegir el producto indicado.",
+      "boton": "¡CUÉNTANOS MÁS DE TU MASCOTA!",
+      "url": "/formulario",
+      "image": "Waggys_03_Banner_Quiz-2bcf7dba.jpg"
+    }
+  ],
+  "compraBanner": {
+    "title": "COMPRA EN LÍNEA",
+    "subtitle": "También disponible en:",
+    "tiendas": [
+      {
+        "image": "Logo_Amazon.png",
+        "url": "https://amzn.to/3RKwKyr"
+      },
+      {
+        "image": "Logo_Mercado_Libre.png",
+        "url": "https://bit.ly/47Pe0Tj"
+      },
+      {
+        "image": "Logo_Tryp.png",
+        "url": "https://www.tryp.mx/"
+      }
+    ]
+  },
+  "eventos": [
+    {
+      "fecha": "16 - 17 de abril",
+      "titulo": "AMVENAC",
+      "img": "Waggys_05A_Banner_Eventos.jpg"
+    },
+    {
+      "fecha": "8 - 9 de junio",
+      "titulo": "La Nación del Gato",
+      "img": "Waggys_05B_Banner_Eventos.jpg"
+    },
+    {
+      "fecha": "4 - 6 de julio",
+      "titulo": "Congreso Veterinario de Monterrey",
+      "img": "Waggys_05C_Banner_Eventos.jpg"
+    },
+    {
+      "fecha": "4 - 7 de septiembre",
+      "titulo": "Congreso Veterinario de León",
+      "img": "Waggys_05D_Banner_Eventos.jpg"
+    }
+  ]
+}
