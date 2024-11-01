@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Vinyasa Yoga",
+    "description": "Find your flow with our Vinyasa Yoga classes – connect your body to your mind through breath and movement.",
+    "image": "https://yogasoulmcr.co.uk/https://yogasoulmcr.co.uk/https://yogasoulmcr.co.uk//images/Vinyasa_Yoga.jpg",
+    "url": "vinyasa-yoga",
+    "details": {
+      "headline": "Vinyasa Yoga",
+      "subheadline": "Free flowing Vinyasa classes through breath and movement",
+      "image": "https://yogasoulmcr.co.uk/https://yogasoulmcr.co.uk/https://yogasoulmcr.co.uk//images/Vinyasa_Yoga.jpg",
+      "intro": {
+        "paragraph1": "Vinyasa Yoga is the synchronising of breath with movement. to attain balance in the mind and body. From the Sanskrit ‘to place in a special way’, Vinyasa aligns a deliberate sequence of poses with the breath to achieve a continuous flow.",
+        "paragraph2": "Expect a dynamic practice, with standing, balancing and seated postures. Please take note of the teacher teaching the class, as vinyasa classes can change from teacher to teacher. Meaning you will get something new, creative and fun each time you practice."
+      },
+      "teachers": [
+        {
+          "name": "Claudia Mirallegro"
+        },
+        {
+          "name": "Laura Booth"
+        },
+        {
+          "name": "Jamie Rowland"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rocket Yoga",
+    "description": "Be challenged with our Rocket Yoga classes, for beginner to experienced yogis.",
+    "image": "/images/rocket-yoga.jpg",
+    "url": "rocket-yoga",
+    "details": {
+      "headline": "Rocket Yoga",
+      "subheadline": "Challenge yourself with the rebel yogi’s class",
+      "image": "/images/MP_YogaSoul_21_0253-scaled.jpg",
+      "intro": {
+        "paragraph1": "Rooted in Ashtanga Vinyasa, Rocket yoga is the rebel yogis choice. Developed in the 80’s by Larry Schultz who, after spending many years with his teacher Phattabi Jois, formed a new intuitive type of yoga: “The Rocket”.",
+        "paragraph2": "It’s a free flowing, dynamic yoga class focusing on strength as well as flexibility.",
+        "paragraph3": "Larry named the sequences, “The Rocket”, as it gets you there faster. Where? wherever you want to be. The beauty about the practice and the way it is taught, is that everyone gets to do what they want."
+      },
+      "teachers": [
+        {
+          "id": 1,
+          "name": "William Mitchell",
+          "image": "/images/teachers-headshot-m.png",
+          "url": "william-mitchell"
+        },
+        {
+          "id": 2,
+          "name": "Samuel Nwokeka",
+          "image": "/images/Sammy-image.jpg",
+          "url": "samuel-nwokeka"
+        },
+        {
+          "id": 3,
+          "name": "Linzi Page",
+          "image": "",
+          "url": "linzi-page"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Yin Yoga",
+    "description": "Invite yourself into stillness with yin yoga, suitable for everyone.",
+    "image": "/images/yin-yoga.jpg",
+    "url": "yin-yoga",
+    "details": {
+      "headline": "Yin Yoga",
+      "subheadline": "Compliment the yang with the yin",
+      "image": "/images/MP_YogaSoul_21_0219-scaled.jpg",
+      "intro": {
+        "paragraph1": "Yin yoga is a stilling practice that cultivates space within both body and mind, whilst increasing flexibility, range of motion in your joints and body awareness.",
+        "paragraph2": "A great balance for any hectic lifestyle, YIN yoga focuses on releasing connective tissue in the body (ligaments, tendons, fascia and joint capsules).",
+        "paragraph3": "Poses (mainly seated) are held for longer periods (from 3-5 minutes), allowing the student to relax into the pose"
+      },
+      "teachers": [
+        {
+          "id": 1,
+          "name": "Sophie-Rae",
+          "image": "/images/Sophie-Rae-Headshot.jpg",
+          "url": "sophie-rae"
+        },
+        {
+          "id": 2,
+          "name": "Tegan Mcleod",
+          "image": "/images/Untitled-2.jpg",
+          "url": "tegan-mcleod"
+        },
+        {
+          "id": 3,
+          "name": "Laura Booth",
+          "image": "/images/Laura-Booth-headshot-2.jpg",
+          "url": "laura-booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Foundations Yoga",
+    "description": "Get the foundations needed to give you the best start on your yoga journey.",
+    "image": "/images/beginners-yoga.jpg",
+    "url": "beginners-yoga",
+    "details": {
+      "headline": "Foundations Yoga",
+      "subheadline": "Create strong foundations on which to grow",
+      "image": "/images/Untitled-42.jpg",
+      "intro": {
+        "paragraph1": "We pride ourselves in taking the time to give students the chance to mature their practice at their own pace.",
+        "paragraph2": "Start from the ground up, become more competent and build your confidence by bringing yourself back to the essential building blocks of yoga asana. A great class whether your new to yoga or a seasoned yogi.",
+        "paragraph3": "You are never too experienced to go back to the basics."
+      },
+      "teachers": [
+        {
+          "id": 1,
+          "name": "Dan hutchinson",
+          "image": "",
+          "url": "dan-hutchinson"
+        },
+        {
+          "id": 2,
+          "name": "Jessica Birchall",
+          "image": "/images/Jess-headshot.jpg",
+          "url": "jessica-birchall"
+        },
+        {
+          "id": 3,
+          "name": "Alhucema Lara López",
+          "image": "/images/Untitled-3.jpg",
+          "url": "alhucema-lara-lopez"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "name": "Claudia Mirallegro",
+    "image": "https://yogasoulmcr.co.ukhttps://yogasoulmcr.co.uk/images/Untitled-1.jpg",
+    "url": "claudia-mirallegro",
+    "details": {
+      "headline": "Yoga with Claudia Mirallegro",
+      "subheadline": "Move with Mirallegro",
+      "instagram": "https://www.instagram.com/mirallegro/",
+      "website": "https://mirallegroyoga.com/about-2/",
+      "image": "https://yogasoulmcr.co.ukhttps://yogasoulmcr.co.uk/images/claudia-3-1.jpg",
+      "intro": {
+        "title": "Meet Claudia",
+        "paragraph1": "In 2015, Claudia completed her Yoga teacher trainer course, while living in Los Angeles. And now she has finally managed to turn something that sets her soul on fire.",
+        "paragraph2": "“It’s a beautiful thing when your heart and mind are moving in the same direction. To work at doing something you truly, truly love and believe in. Ahh. The dream.”"
+      },
+      "style": {
+        "headline": "Meet Claudia",
+        "image": "https://yogasoulmcr.co.ukhttps://yogasoulmcr.co.uk/images/Claudia-teacher-photo.jpg",
+        "paragraph1": "Claudia’s time on the mat is about giving 1000% of my energy and to help people go further.",
+        "paragraph2": "Her infectious energy will be sure to transform your day or start your day right. Her classes are playful yet powerful."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Dan Hutchinson",
+    "image": "",
+    "url": "dan-hutchinson",
+    "details": {
+      "headline": "Yoga with Dan Hutchinson",
+      "subheadline": "Downdog with Dan",
+      "instagram": "https://www.instagram.com/downwardfacingdan/?hl=en",
+      "website": "",
+      "image": "/images/header-image-dan.jpg",
+      "intro": {
+        "title": "Meet Dan",
+        "paragraph1": "Dan found his way back to Yoga and meditation to help live a more peaceful life, whilst better understanding his mind after being diagnosed with OCD.",
+        "paragraph2": "Observing the transformative effects of Yoga and meditation for himself, he studied a number of Yoga traditions and developed fun and engaging classes that make these traditional systems accessible to the modern world."
+      },
+      "style": {
+        "headline": "Dan's Teaching Style",
+        "image": "/images/Dan-bio-image.jpg",
+        "paragraph1": "Dan teaches traditional hatha and ashtanga vinyasa yoga.",
+        "paragraph2": "You will receive a solid understanding of both physical postures and mindfulness meditation, whilst encouraging a sense of openness and compassion towards yourself and others.",
+        "paragraph3": "Classes are always tailored to the level of the student and will leave you feeling suitably challenged and deeply relaxed!"
+      },
+      "classes": {
+        "headline": "Classes by Dan"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jamie Rowland",
+    "image": "",
+    "url": "jamie-rowland",
+    "details": {
+      "headline": "Yoga with Jamie Rowland",
+      "subheadline": "Lovingly challenge yourself with Jamie",
+      "instagram": "",
+      "website": "",
+      "image": "/images/unnamed1.jpeg",
+      "intro": {
+        "title": "Meet Jamie",
+        "paragraph1": "Even after recovering from an eating disorder at a young age, exercise was never a simple aspect of life for Jamie… until he discovered the practice of Yoga. Yoga provided Jamie with a practice to unite his already blossoming spirituality with his love of movement, allowing him to keep his body and mind healthy with the primary focus of the practice being to foster loving presence, rather than anything aesthetic. From this point, the practice has brought him a deep peace and inner knowing, something which he endeavours to bring to the lives of every one of his students."
+      },
+      "style": {
+        "headline": "Jamie's teaching style",
+        "image": "/images/unnamed-800x533.jpeg",
+        "paragraph1": "Jamie’s classes are challenging and dynamic, but are always delivered from a place of loving non-judgement, in which every student is reminded that their practice is unique and personal to them. For Jamie, it is never about “how it looks”, but rather, “how it feels”, and he views his classes as a playground for each person to explore and learn about themselves."
+      },
+      "classes": {
+        "headline": "Classes by Jamie"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jessica Birchall",
+    "image": "/images/Jess-headshot.jpg",
+    "url": "jessica-birchall",
+    "details": {
+      "headline": "Yoga with Jess Birchall",
+      "subheadline": "Find your center with Jess",
+      "instagram": "https://www.instagram.com/flow.with.jess",
+      "website": "",
+      "image": "/images/Jess-header-image.jpg",
+      "intro": {
+        "title": "Meet Meet Jess",
+        "paragraph1": "Jess’s initial introduction to yoga was a home practice around 6 years ago, mainly focusing on the fitness aspect.",
+        "paragraph2": "During a year of travelling in Australia and Asia she found her love for the mental wellbeing benefits of yoga, along with incorporating yoga off the mat into other aspects of her life. Jess completed her teacher training at Sampoorna, India at the beginning of 2018 and has been teaching full time since."
+      },
+      "style": {
+        "headline": "Jess's teaching style",
+        "image": "/images/Jess-Teacher-pic.jpg",
+        "paragraph1": "Jess’s classes are Vinyasa flow based focusing on a strong connection of movement with breath, Jess provides clear instruction and encourages everyone to explore their movements whilst challenging their bodies and focusing their minds."
+      },
+      "classes": {
+        "headline": "Classes by Jess"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Laura Booth",
+    "image": "/images/Laura-Booth-headshot-2.jpg",
+    "url": "laura-booth",
+    "details": {
+      "headline": "Yoga with Laura Booth",
+      "subheadline": "Creative and unique flows with Laura",
+      "instagram": "https://www.instagram.com/lauraebooth",
+      "website": "https://www.laura-booth.com/",
+      "image": "/images/Laura-Header.jpg",
+      "intro": {
+        "title": "Meet Laura",
+        "paragraph1": "Laura found yoga in a unique twist of fate through finding a part time job as a receptionist at a studio whilst studying.",
+        "paragraph2": "Through being immersed in the community and eventually all sides of the practice, teaching yoga showed itself as a natural progression for Laura."
+      },
+      "style": {
+        "headline": "Laura's Teaching Style",
+        "image": "/images/Laura-Header.jpg",
+        "paragraph1": "Laura teaches an approach of blended traditional yoga Asana with animal movement, conditioning and dance to create a dynamic experience applicable to modern bodies and needs.",
+        "paragraph2": "Influenced by Vinyasa, Yin and Tantra, her style is playful yet precise to create a space for personal exploration, always amplified by a diverse tribal fusion music playlist inspired by belly dance",
+        "paragraph3": "She has been teaching yoga full time for over 3 years after working in studios from age 19 and has since completed multiple teacher trainings all over the world."
+      },
+      "classes": {
+        "headline": "Classes by Laura"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Linzi Page",
+    "image": "",
+    "url": "linzi-page",
+    "details": {
+      "headline": "Yoga with Linzi Page",
+      "subheadline": "Level up with Linzi",
+      "instagram": "https://www.instagram.com/becominglinzijayne/",
+      "website": "",
+      "image": "/images/Linzi.jpg",
+      "intro": {
+        "title": "Meet Linzi",
+        "paragraph1": "Linzi has been practicing yoga since her mid twenties and it truly transformed her life after she broke her neck training partner acrobatics.",
+        "paragraph2": "Yoga was there for her every step of the way through her recovery, providing a much needed source of mental clarity, emotional stability and physical strength.",
+        "paragraph3": "Yoga taught Linzi how to be patient, yet resilient and to practice self love and gratitude, every single day. Linzi completed her 200 hour in Ashtanga Vinyasa and her continued trainings are in; HOT Power, Mandala Vinyasa, YIN and Rocket."
+      },
+      "style": {
+        "headline": "Linzi's Teaching Style",
+        "image": "/images/Linzi.jpg",
+        "paragraph1": "Linzi’s classes are a dynamic and challenging but playful and often incorporate Elemental and/or Chakra philosophy. Her classes are a safe space to explore your mind and body.",
+        "paragraph2": "Linzi encourages her students to honour their body, respect its limits and to appreciate each practice with its own light and gratitude."
+      },
+      "classes": {
+        "headline": "Classes by Linzi"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Meghan Johnson",
+    "image": "/images/Meghan-headshot.jpg",
+    "url": "meghan-johnson",
+    "details": {
+      "headline": "Yoga with Meghan Johnson",
+      "subheadline": "Move your body with Meghan",
+      "instagram": "https://www.instagram.com/meghanroseyoga/",
+      "website": "",
+      "image": "/images/Meghan-header-1.jpg",
+      "intro": {
+        "title": "Meet Meghan",
+        "paragraph1": "Meghan's yoga journey started in a dance studio and was only natural that yoga would become an integral part of her dance practice.",
+        "paragraph2": "She has been a mover for most of her life and yoga helped her balance dance, fitness, and life into a beautiful and peaceful union."
+      },
+      "style": {
+        "headline": "Meghan's Teaching Style",
+        "image": "/images/Meghan-pic-1.jpg",
+        "paragraph1": "Meghan’s classes offer a grounding and nourishing space for connection of breath, body and mind.",
+        "paragraph2": "With breath awareness, curiosity, and playfulness, Meghan’s classes are designed to leave you feeling embodied and refreshed with a renewed sense of inner peace."
+      },
+      "classes": {
+        "headline": "Classes by Meghan"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Samuel Nwokeka",
+    "image": "/images/Sammy-image.jpg",
+    "url": "samuel-nwokeka",
+    "details": {
+      "headline": "Yoga with Samuel Nwokeka",
+      "subheadline": "Fun and upbeat yoga classes with Samuel",
+      "instagram": "https://www.instagram.com/naijaboybending",
+      "website": "https://nbbyoga.com/",
+      "facebook": "https://www.facebook.com/naijaboybending",
+      "image": "/images/header-image.jpg",
+      "intro": {
+        "title": "Meet Samuel",
+        "paragraph1": "Samuel came to yoga after a skiing accident forced him to call time on his footballing days.",
+        "paragraph2": "The new-found time he used to dedicate himself to the yoga practice, but he soon learnt there was much more to Yoga than the endorphin pump you get from the physical Asana, the clarity and calmness it brought to his mind proved to be invaluable."
+      },
+      "style": {
+        "headline": "Samuel’s Teaching Style",
+        "image": "/images/sammy-teacher-photo.jpg",
+        "paragraph1": "Samuel’s teaching style is fun and upbeat, focusing on linking the breath with movement. He likes to challenge his students and teaches methods for taking their practice further.",
+        "paragraph2": "Samuel’s energetic teaching style ensures everyone will take something from each one of his classes – whether you are completely new to yoga or have been practicing for as long as you can remember."
+      },
+      "classes": {
+        "headline": "Classes by Samuel"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Sophie-Rae",
+    "image": "/images/Sophie-Rae-Headshot.jpg",
+    "url": "sophie-rae",
+    "details": {
+      "headline": "Yoga with Sophie",
+      "subheadline": "Let Sophie raise your awareness",
+      "instagram": "",
+      "website": "",
+      "image": "/images/Sophie-Rae-Header.jpg",
+      "intro": {
+        "title": "Meet Sophie-Rae",
+        "paragraph1": "For Sophie-Rae, yoga is a practice of deep connection, understanding and awareness. Like most, Sophie-Rae really found her pathway into yoga at a time when she needed it the most and it was then that she began to practice Jivamukti Yoga.",
+        "paragraph2": "Through strong physical asana and spiritual teachings, Sophie-Rae found that her yoga practice began to be a place of inner sanctuary; providing space to look within and observe what’s already there, enabling not only more space in both body and mind but also a place to move towards becoming a more conscious, calm and considered human being.",
+        "        paragraph3": "Sophie-Rae has studied with Jivamukti Yoga and The Yoga People and incorporates all of knowledge and wisdom that she has gained from her teachers within her classes."
+      },
+      "style": {
+        "headline": "Sophie's Teaching Style",
+        "image": "/images/sophie-rae-feature.jpg",
+        "paragraph1": "Sophie-Rae’s classes will provide a strong vinyasa practice, a slow and nourishing breath and teachings of both yoga philosophy and elemental patterning. She encourages play, space and stillness.",
+        "paragraph2": "For her, yoga is not just about the physical Asana, it’s about what is at play on the internal and the subtleties of how and why we are practicing. Sophie will create space to allow you to explore these teachings of yoga in whichever way is available to you."
+      },
+      "classes": {
+        "headline": "Classes by Sophie"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Tegan Mcleod",
+    "image": "/images/Untitled-2.jpg",
+    "url": "tegan-mcleod",
+    "details": {
+      "headline": "Yoga with Tegan Mcleod",
+      "subheadline": "Flow with Tegan",
+      "instagram": "https://www.instagram.com/teganwmcleod/?hl=en",
+      "website": "",
+      "image": "/images/image00004.jpeg",
+      "intro": {
+        "title": "Meet Tegan",
+        "paragraph1": "Tegan is a 500hr certified Yoga Instructor since 2014.",
+        "paragraph2": "She infuses Vinyasa and Yin Yoga elements to create an immediate connection with your Higher Self. Having taught yoga and creative writing extensively in the United States, from Texas to New York, she now resides and teaches in Manchester, UK."
+      },
+      "style": {
+        "headline": "Tegan's teaching style",
+        "image": "/images/image00026-800x1147.jpeg",
+        "paragraph1": "Tegan is passionate about the connection between our bodies in flow & how we interact with the world around us.",
+        "paragraph2": "Her vision is one of healing and empowerment – for all bodies, all abilities, all backgrounds. Tegan’s teaching will combine invigorating and playful movement with an authentic curiosity towards a higher purpose.",
+        "paragraph3": "Her deepest desire is for her students to nurture a genuine and revolutionary kind of awareness of their own power and be able to take this kind of self-justice off the mat into the rest of their world."
+      },
+      "classes": {
+        "headline": "Classes by Tegan"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "William Mitchell",
+    "image": "/images/teachers-headshot-m.png",
+    "url": "william-mitchell",
+    "details": {
+      "headline": "Yoga with Will Mitchell",
+      "subheadline": "Come fly with Will",
+      "instagram": "https://www.instagram.com/willyogamanchester",
+      "image": "/images/YogaSoul_548.jpg",
+      "intro": {
+        "title": "Meet Will",
+        "paragraph1": "Will first found yoga 5 years ago, having a love for all things health and fitness related, he was drawn to the physical benefits of the yoga asana.",
+        "paragraph2": "Will very quickly came to realise how many other aspects of his life yoga had a positive influence on. Practicing most of his yoga in the centre of Manchester with some of the best teachers in the city, he developed a love for the more dynamic and physically challenging practices."
+      },
+      "style": {
+        "headline": "Will's teaching style",
+        "image": "/images/YogaSoul_531-500x750.jpg",
+        "paragraph1": "Will teaches a focussed and traditional ashtanga style with an open mind and attitude towards yoga and movement practice. His classes are fun and engaging for anyone at any level of experience."
+      },
+      "classes": {
+        "headline": "Classes with Will"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Alhucema Lara López",
+    "image": "/images/Untitled-3.jpg",
+    "url": "alhucema-lara-lopez",
+    "details": {
+      "headline": "Yoga with Alhucema Lara López",
+      "subheadline": "Feel the Elements with Alhu",
+      "instagram": "https://www.instagram.com/alhuyoga/?hl=en",
+      "image": "",
+      "intro": {
+        "title": "Meet Alhu",
+        "paragraph1": "Alhu’s first encounter with yoga was at the age of 16, when she was going through some difficulty in her teen years.",
+        "paragraph2": "Her mum’s partner back then was a yoga teacher and she was introduced to a gentle Hatha practice that helped her find discipline and commitment."
+      },
+      "style": {
+        "headline": "Alhu's Teaching Style",
+        "image": "/images/alhu-pic.jpg",
+        "paragraph1": "Her classes are strongly influenced by Mandala Vinyasa and Rocket, which makes her flows both creative and fluid as well as strong and structured.",
+        "paragraph2": "She aims to create purposeful sequences, accompanied by mindfully selected playlists to help you breathe & move."
+      },
+      "classes": {
+        "headline": "Classes by Alhu"
+      }
+    }
+  }
+]
