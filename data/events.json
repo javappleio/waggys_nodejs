@@ -1,490 +1,630 @@
 [
-  {
-    "id": 1,
-    "title": "Members Rounders Event",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "August 31, 2024 12:15 pm - August 31, 2024 5:00 pm",
-    "description": "A friendly competition outside of the studio",
-    "url": "members-only-event-rounders",
-    "image": "/images/members-only-event-rounders.webp",
-    "details": {
-      "headline": "Breathwork and Sound Journey",
-      "subheadline": "Journey through breath and sound to yourself",
+    {
+      "id": 1,
+      "title": "Members Rounders Event",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "August 31, 2024 12:15 pm - August 31, 2024 5:00 pm",
+      "description": "A friendly competition outside of the studio",
+      "url": "members-only-event-rounders",
       "image": "/images/members-only-event-rounders.webp",
-      "intro": {
-        "title": "Rounders Members Event",
-        "host": [
-          {
-            "name": "",
-            "url": ""
-          }
-        ],
-        "paragraph1": "Wether you have played before or not, yoga soul invites its monthly paying members the chance to partake in a friendly game of Rounders.",
-        "paragraph2": "Do not worry if you dont know the rules, or never played any bat and ball games, the intention is to enjoy, have fun and socialise with other members of the community."
+      "details": {
+        "headline": "Breathwork and Sound Journey",
+        "subheadline": "Journey through breath and sound to yourself",
+        "image": "/images/members-only-event-rounders.webp",
+        "intro": {
+          "title": "Rounders Members Event",
+          "host": [
+            {
+              "name": "",
+              "url": ""
+            }
+          ],
+          "paragraph1": "Wether you have played before or not, yoga soul invites its monthly paying members the chance to partake in a friendly game of Rounders.",
+          "paragraph2": "Do not worry if you dont know the rules, or never played any bat and ball games, the intention is to enjoy, have fun and socialise with other members of the community."
+        },
+        "book": {
+          "link": ""
+        }
       },
-      "book": {
-        "link": ""
+      "detailsSection": {
+        "text": [
+          "Meeting point: Yoga soul Norther Quarter",
+          "Game field: Heaton Park",
+          "We will arrange a meeting point at northern quarter studio at 12.15pm, so you gave chance to practice that morning if you wish.",
+          "From there we can take a tram to Heaton park.",
+          "If you wish to drive then you are welcome to meet us there too."
+        ],
+        "whatToBring": {
+          "title": "What to bring",
+          "list": [
+            "Water",
+            "Suncream",
+            "Comfortable clothing",
+            "Trainers",
+            "A packed lunch",
+            "A blanket to sit on"
+          ]
+        }
       }
     },
-    "detailsSection": {
-      "text": [
-        "Meeting point: Yoga soul Norther Quarter",
-        "Game field: Heaton Park",
-        "We will arrange a meeting point at northern quarter studio at 12.15pm, so you gave chance to practice that morning if you wish.",
-        "From there we can take a tram to Heaton park.",
-        "If you wish to drive then you are welcome to meet us there too."
-      ],
-      "whatToBring": {
-        "title": "What to bring",
-        "list": [
-          "Water",
-          "Suncream",
-          "Comfortable clothing",
-          "Trainers",
-          "A packed lunch",
-          "A blanket to sit on"
-        ]
-      }
-    }
-  },
-  {
-    "id": 2,
-    "title": "Gong Bath",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "September 7, 2024 6:00 pm - September 7, 2024 7:00 pm",
-    "description": "The perfect antidote to the daily stresses",
-    "url": "gong-bath-10",
-    "image": "/images/gong-bath-10.jpeg",
-    "details": {
-      "headline": "Breathwork and Sound Journey",
-      "subheadline": "Journey through breath and sound to yourself",
+    {
+      "id": 2,
+      "title": "Gong Bath",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "September 7, 2024 6:00 pm - September 7, 2024 7:00 pm",
+      "description": "The perfect antidote to the daily stresses",
+      "url": "gong-bath-10",
       "image": "/images/gong-bath-10.jpeg",
-      "intro": {
-        "title": "Gong Bath",
-        "host": [
-          {
-            "name": "Martyn - Gong Spa",
-            "url": ""
-          }
-        ],
-        "paragraph1": "A gong bath is a unique experience in which you are bathed (clothes on) in the sounds and vibrations of the gongs, which lend themselves to enhanced states of well-being, relaxation, happiness and pleasure.",
-        "paragraph2": "Great for those who want to give a gift to themselves (or others) of an hour of ‘me time’ or as an aid to meditation and deep cleansing. Your body temperature may change during a gong bath, many people drop in temperature. It is sensible to have a blanket at the ready.",
-        "paragraph3": "All you need to do is relax and let the gongs do the work!"
-      },
-      "book": {
-        "link": ""
+      "details": {
+        "headline": "Breathwork and Sound Journey",
+        "subheadline": "Journey through breath and sound to yourself",
+        "image": "/images/gong-bath-10.jpeg",
+        "intro": {
+          "title": "Gong Bath",
+          "host": [
+            {
+              "name": "Martyn - Gong Spa",
+              "url": ""
+            }
+          ],
+          "paragraph1": "A gong bath is a unique experience in which you are bathed (clothes on) in the sounds and vibrations of the gongs, which lend themselves to enhanced states of well-being, relaxation, happiness and pleasure.",
+          "paragraph2": "Great for those who want to give a gift to themselves (or others) of an hour of ‘me time’ or as an aid to meditation and deep cleansing. Your body temperature may change during a gong bath, many people drop in temperature. It is sensible to have a blanket at the ready.",
+          "paragraph3": "All you need to do is relax and let the gongs do the work!"
+        },
+        "book": {
+          "link": ""
+        }
       }
-    }
-  },
-  {
-    "id": 3,
-    "title": "Pincha Workshop",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "September 14, 2024 2:00 pm - September 14, 2024 4:00 pm",
-    "description": "A 2 hour playful workshop focused on Pincha",
-    "url": "pincha-workshop-september",
-    "image": "/images/pincha_workshop.jpeg",
-    "details": {
-      "headline": "A 2 hour playful workshop focused on Pincha",
-      "subheadline": "A 2 hour playful workshop focused on Pincha",
+    },
+    {
+      "id": 3,
+      "title": "Pincha Workshop",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "September 14, 2024 2:00 pm - September 14, 2024 4:00 pm",
+      "description": "A 2 hour playful workshop focused on Pincha",
+      "url": "pincha-workshop-september",
       "image": "/images/pincha_workshop.jpeg",
-      "intro": {
-        "title": "Pincha Workshop",
-        "host": [
-          {
-            "name": "Nicole Driscoll",
-            "url": ""
-          }
-        ],
-        "paragraph1": "In this playful 2 hour workshop we will break down the fundamentals of holding pincha, to exploring different progressions you can take.",
-        "paragraph2": "Through conditioning the body in preparation to support itself in pincha, we will build up strength and flexibility to help create more awareness of body positioning, which will give you more confidence when you’re upside down."
-      },
-      "book": {
-        "link": "https://momence.com/s/105440121"
-      }
-    }
-  },
-  {
-    "id": 4,
-    "title": "Song Cirlce",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "September 14, 2024 6:00 pm - September 14, 2024 7:30 pm",
-    "description": "Join in community and connection to yourself through voice",
-    "url": "song-circle-4",
-    "image": "/images/song-circle.jpeg",
-    "details": {
-      "headline": "Join in community and connection to yourself through voice",
-      "subheadline": "Join in community and connection to yourself through voice",
-      "image": "/images/song-circle.jpeg",
-      "intro": {
-        "title": "Song Cirlce",
-        "host": [
-          {
-            "name": "Samuel Nwokeka",
-            "url": "samuel-nwokeka/"
-          }
-        ],
-        "paragraph1": "Join as a community together to share the power of voice in unison. To open the voice is a tool for expression. This evening will be a mixture of kirtan (call and response meditation) as well as song sharing (you do not have to share a song but are more than welcome).",
-        "paragraph2": "You don’t need to be a good singer, a practitioner of yoga, or a follower of any religion or set of beliefs to experience the power of kirtan. An open mind and willing voice are all that is required!",
-        "paragraph3": "This is a donation based event, if you have the means then pick a donation but equally if you do not have the means please come and join <3"
-      },
-      "book": {
-        "link": ""
-      }
-    }
-  },
-  {
-    "id": 6,
-    "title": "Gong Bath",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "October 25, 2024 8:30 pm - October 25, 2024 9:30 pm",
-    "description": "The perfect antidote to the daily stresses",
-    "url": "gong-bath-10",
-    "image": "/images/gong-bath-10.jpeg",
-    "details": {
-      "headline": "Breathwork and Sound Journey",
-      "subheadline": "Journey through breath and sound to yourself",
-      "image": "/images/gong-bath-10.jpeg",
-      "intro": {
-        "title": "Gong Bath",
-        "host": [
-          {
-            "name": "Martyn - Gong Spa",
-            "url": ""
-          }
-        ],
-        "paragraph1": "A gong bath is a unique experience in which you are bathed (clothes on) in the sounds and vibrations of the gongs, which lend themselves to enhanced states of well-being, relaxation, happiness and pleasure.",
-        "paragraph2": "Great for those who want to give a gift to themselves (or others) of an hour of ‘me time’ or as an aid to meditation and deep cleansing. Your body temperature may change during a gong bath, many people drop in temperature. It is sensible to have a blanket at the ready.",
-        "paragraph3": "All you need to do is relax and let the gongs do the work!"
-      },
-      "book": {
-        "link": ""
-      }
-    }
-  },
-  {
-    "id": 5,
-    "title": "Menstrual Cycle Awareness for Yoga & Fitness",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "October 20, 2024 7:00 am - October 20, 2024 9:00 am",
-    "description": "Ladies, we are are cyclical.",
-    "url": "menstrual-cycle-awareness-for-yoga-fitness",
-    "image": "/images/menstrual.jpg",
-    "details": {
-      "headline": "Menstrual Cycle Awareness for Yoga & Fitness",
-      "subheadline": "Ladies, we are are cyclical.",
-      "image": "/images/menstrual.jpg",
-      "intro": {
-        "title": "Menstrual Cycle Awareness for Yoga & Fitness",
-        "host": [
-          {
-            "name": "Kate Tittley",
-            "url": ""
-          }
-        ],
-        "paragraph1": "Ladies, we are are cyclical.  Our energy is consistently inconsistent, meaning there are days when we step on to the mat and feel like an Olympic gymnast, and days where we genuinely think our legs are made of lead.  Often we beat ourselves up for this.  We can convince ourselves into thinking we are doing something wrong or aren’t good enough.",
-        "paragraph2": "In fact, our oscillations are part of our amazing, unique biology.  Many of the answers we seek are hidden in menstrual cycle awareness.",
-        "paragraph3": "This workshop offers you an introduction to the menstrual cycle in relation to yoga and physical exercise.  It is open to those with a cycle, and those simply curious to learn more.  The more we learn about the menstrual cycle, the more we can harness this magic to feel better and move optimally."
-      },
-      "book": {
-        "link": "https://momence.com/s/106862189"
-      }
-    }
-  },
-  {
-    "id": 7,
-    "title": "Full Moon Yin Club",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "October 26, 2024 11:00 am - October 26, 2024 1:00 pm",
-    "description": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon.",
-    "url": "full-moon-yin-club",
-    "image": "/images/full-moon.jpg",
-    "details": {
-      "headline": "Full Moon Yin Club",
-      "subheadline": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon.",
-      "image": "/images/full-moon.jpg",
-      "intro": {
-        "title": "Full Moon Yin Club",
-        "host": [
-          {
-            "name": "Sophie Rae",
-            "url": ""
-          }
-        ],
-        "paragraph1": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon. This is a potent time to channel our energy, invite in deep rest and set powerful intentions. Each month we will follow the astrological sign that the full moon falls within and align to the elemental energy of that month. The evening will offer yin, somatics, and intention setting to guide you deeply into connection to yourself.",
-        "paragraph2": "",
-        "paragraph3": ""
-      },
-      "book": {
-        "link": "https://momence.com/s/105507322"
-      }
-    }
-  },
-  {
-    "id": 8,
-    "title": "Gong Bath",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "October 27, 2024 8:30 pm - October 27, 2024 9:30 pm",
-    "description": "The perfect antidote to the daily stresses",
-    "url": "gong-bath-27-2024",
-    "image": "/images/gong-bath-10.jpeg",
-    "details": {
-      "headline": "Breathwork and Sound Journey",
-      "subheadline": "Journey through breath and sound to yourself",
-      "image": "/images/gong-bath-10.jpeg",
-      "intro": {
-        "title": "Gong Bath",
-        "host": [
-          {
-            "name": "Martyn - Gong Spa",
-            "url": ""
-          }
-        ],
-        "paragraph1": "A gong bath is a unique experience in which you are bathed (clothes on) in the sounds and vibrations of the gongs, which lend themselves to enhanced states of well-being, relaxation, happiness and pleasure.",
-        "paragraph2": "Great for those who want to give a gift to themselves (or others) of an hour of ‘me time’ or as an aid to meditation and deep cleansing. Your body temperature may change during a gong bath, many people drop in temperature. It is sensible to have a blanket at the ready.",
-        "paragraph3": "All you need to do is relax and let the gongs do the work!"
-      },
-      "book": {
-        "link": ""
-      }
-    }
-  },
-  {
-    "id": 9,
-    "title": "Menopause Workshop",
-    "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
-    "time": "November 9, 2024 2:00 pm - November 9, 2024 5:00 pm",
-    "description": "Connect & share our experiences focus on befriending our bodies & preparing for change.",
-    "url": "menopause-workshop-9-november",
-    "image": "/images/menopauseworkshop.jpg",
-    "details": {
-      "headline": "Menopause Workshop",
-      "subheadline": "Connect & share our experiences focus on befriending our bodies & preparing for change.",
-      "image": "/images/menopauseworkshop.jpg",
-      "intro": {
-        "title": "Menopause Workshop",
-        "host": [
-          {
-            "name": "Lucy Pope",
-            "url": ""
-          }
-        ],
-        "paragraph1": "Lucy is a yoga therapist & an accredited menopause yoga teacher. The menopause yoga system comprises 4 different classes depending on which stage of the menopause you are at & has been developed using a blend of western medical science with eastern wellbeing. This first workshop is designed for those who are pre or peri menopausal so perfect for those who think they are at the age where menopause might be approaching and would like to learn more & prepare, or for those experiencing the first symptoms.",
-        "paragraph2": "During this 3 hour workshop we will have time to connect & share our experiences focus on befriending our bodies & preparing for change. Letting go of what no longer supports us, plus learn about the importance of reducing stress, increasing rest & relaxation. There will be a 60 minute yoga practice as part of the workshop which is suitable for absolute beginners ",
-        "paragraph3": ""
-      },
-      "book": {
-        "link": "https://momence.com/s/106861717"
-      }
-    }
-  },
-  {
-    "id": 10,
-    "title": "AcroYoga - Open Jam",
-    "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
-    "time": "November 10, 2024 1:00 pm - November 10, 2024 4:00 pm",
-    "description": "This open Jam session is for anyone of all levels or interest in AcroYoga",
-    "url": "acroyoga-open-jam-10-november",
-    "image": "/images/acroyoga.jpg",
-    "details": {
-      "headline": "AcroYoga - Open Jam",
-      "subheadline": "This open Jam session is for anyone of all levels or interest in AcroYoga",
-      "image": "/images/acroyoga.jpg",
-      "intro": {
-        "title": "AcroYoga - Open Jam",
-        "host": [
-          {
-            "name": "Samuel Nwokeka",
-            "url": "samuel-nwokeka/"
-          }
-        ],
-        "paragraph1": "This open Jam session is for anyone of all levels or interest in AcroYoga, wether you want to start out and learn or you just want a space to refine your skills.",
-        "paragraph2": "We will transform the studio into a soft mat area, to ensure safetly as well as having experienced AcroYoga practitioners on hand to help with spotting and tips. ",
-        "paragraph3": "This is a space to build and grow the acroyoga community in Manchester"
-      },
-      "book": {
-        "link": "https://momence.com/s/107613036"
-      }
-    }
-  },
-  {
-    "id": 11,
-    "title": "Song Circle",
-    "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
-    "time": "November 16, 2024 6:00 pm - November 16, 2024 7:30 pm",
-    "description": "Join in community and connection to yourself through voice",
-    "url": "song-circle-16-november",
-    "image": "/images/song-circle.jpeg",
-    "details": {
-      "headline": "Join in community and connection to yourself through voice",
-      "subheadline": "Join in community and connection to yourself through voice",
-      "image": "/images/song-circle.jpeg",
-      "intro": {
-        "title": "Song Cirlce",
-        "host": [
-          {
-            "name": "Samuel Nwokeka",
-            "url": "samuel-nwokeka/"
-          }
-        ],
-        "paragraph1": "Join as a community together to share the power of voice in unison. To open the voice is a tool for expression. This evening will be a mixture of kirtan (call and response meditation) as well as song sharing (you do not have to share a song but are more than welcome).",
-        "paragraph2": "You don’t need to be a good singer, a practitioner of yoga, or a follower of any religion or set of beliefs to experience the power of kirtan. An open mind and willing voice are all that is required!",
-        "paragraph3": "This is a donation based event, if you have the means then pick a donation but equally if you do not have the means please come and join <3"
-      },
-      "book": {
-        "link": "https://momence.com/s/107507764"
-      }
-    }
-  },
-  {
-    "id": 16,
-    "title": "Full Moon Yin Club",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "November 16, 2024 6:00 pm - November 16, 2024 8:00 pm",
-    "description": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon.",
-    "url": "full-moon-yin-club-16-november",
-    "image": "/images/full-moon.jpg",
-    "details": {
-      "headline": "Full Moon Yin Club",
-      "subheadline": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon.",
-      "image": "/images/full-moon.jpg",
-      "intro": {
-        "title": "Full Moon Yin Club",
-        "host": [
-          {
-            "name": "Sophie Rae",
-            "url": ""
-          }
-        ],
-        "paragraph1": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon. This is a potent time to channel our energy, invite in deep rest and set powerful intentions. Each month we will follow the astrological sign that the full moon falls within and align to the elemental energy of that month. The evening will offer yin, somatics, and intention setting to guide you deeply into connection to yourself.",
-        "paragraph2": "",
-        "paragraph3": ""
-      },
-      "book": {
-        "link": "https://momence.com/s/105507322"
-      }
-    }
-  },
-  {
-    "id": 12,
-    "title": "Sound Bath",
-    "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
-    "time": "November 22, 2024 8:00 pm - November 22, 2024 9:00 pm",
-    "description": "Gift yourself an hour of relaxation as you are bathed in the sounds",
-    "url": "sound-bath-22-november",
-    "image": "/images/sound-bath.jpg",
-    "details": {
-      "headline": "Sound Bath",
-      "subheadline": "Gift yourself an hour of relaxation as you are bathed in the sounds",
-      "image": "/images/sound-bath.jpg",
-      "intro": {
-        "title": "Sound Bath",
-        "host": [
-          {
-            "name": "Lucy Pope",
-            "url": ""
-          }
-        ],
-        "paragraph1": "Gift yourself an hour of relaxation as you are bathed in the sounds of crystal bowls, crystal harp, a wind gong, chimes & more. All you need to do is lie down, get comfy & allow the sounds of the instruments to wash over you and take you on a journey.",
-        "paragraph2": "It is advisable to dress in warm comfortable loose clothing. Please bring a blanket & perhaps a pillow to aid your comfort as your body temperature may drop. ",
-        "paragraph3": "Not suitable for those in the 1st trimester of pregnancy, with a heart condition, sound activated epilepsy, those with metal implants in the body or a pacemaker."
-      },
-      "book": {
-        "link": "https://momence.com/s/106915617"
-      }
-    }
-  },
-  {
-    "id": 13,
-    "title": "Cacao Ceremony",
-    "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
-    "time": "November 23, 2024 6:30 pm - November 23, 2024 8:30 pm",
-    "description": "Cacao Ceremony",
-    "url": "cacao-ceremony",
-    "image": "/images/cacao-ceremony.jpg",
-    "details": {
-      "headline": "Cacao Ceremony",
-      "subheadline": "Cacao Ceremony",
-      "image": "/images/cacao-ceremony.jpg",
-      "intro": {
-        "title": "Cacao Ceremony",
-        "host": [
-          {
-            "name": "Carlos Mundalah",
-            "url": ""
-          }
-        ],
-        "paragraph1": "",
-        "paragraph2": "",
-        "paragraph3": ""
-      },
-      "book": {
-        "link": "https://momence.com/s/107900952"
-      }
-    }
-  },
-  {
-    "id": 14,
-    "title": "Elemental breathwork",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "November 24, 2024 1:00 pm - November 24, 2024 3:00 pm",
-    "description": "Expand our energy in all 4 elements creating a fully integrated self.",
-    "url": "elemental-breathwork",
-    "image": "/images/elemental-breathwork.jpg",
-    "details": {
-      "headline": "Elemental breathwork",
-      "subheadline": "Expand our energy in all 4 elements creating a fully integrated self.",
-      "image": "/images/elemental-breathwork.jpg",
-      "intro": {
-        "title": "Elemental breathwork",
-        "host": [
-          {
-            "name": "Nicholas Mendard",
-            "url": ""
-          }
-        ],
-        "paragraph1": "Elemental Breathwork maps the 4 parts of the breath with a quadrant of elemental sensations and emotions creating a full flow through the body, mind and soul.",
-        "paragraph2": "For the Air breathe, you will experience lightness in your heart and a sense of floating. In the Fire section we will cultivate transformation, action and you will experience a sense of uplifting energy. During the Water breathe we will work with our emotional side and drop back into the flow of life. For the Earth segment will root into in our bodies offering everything back down to the ground as you experience a sense of calm clear understanding.",
-        "paragraph3": "During this workshop we will expand our energy in all 4 elements creating a fully integrated self. It will begin with a discussion of the elements and how they relate to various aspects of the breath. From there we will put the knowledge into practice as we journey through a 120 minute breathwork session."
-      },
-      "book": {
-        "link": "https://momence.com/s/107997099"
-      }
-    }
-  },
-  {
-    "id": 15,
-    "title": "Yin & music",
-    "image": "https://yogasoulmcr.co.uk/https://yogasoulmcr.co.uk//images/yin-music.jpg",
-    "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
-    "time": "November 30, 2024 6:00 pm - November 30, 2024 7:30 pm",
-    "description": "Experience the restorative benefits of Yin Yoga, which focuses on deep stretching and relaxation.",
-    "url": "yin-music",
-    "details": {
-      "headline": "Yin & music",
-      "subheadline": "Experience the restorative benefits of Yin Yoga, which focuses on deep stretching and relaxation.",
-      "image": "https://yogasoulmcr.co.uk/https://yogasoulmcr.co.uk//images/yin-music.jpg",
-      "intro": {
-        "title": "Yin & music",
-        "host": [
-          {
-            "name": "Tegan McLeod",
-            "url": ""
-          }
-        ],
-        "paragraph1": "Join us for a very special 90-minute Yin Yoga class featuring the soothing  melodies of Jess Carr,  flautist from the Royal Northern College of Music. As part of her final year project Jess will be sharing her enchanting music with us, creating a serene and powerful atmosphere to enhance our practice.",
-        "paragraph2": "In this session, you will experience the restorative benefits of Yin Yoga, which focuses on deep stretching and relaxation. As you hold poses for an extended duration, Jess’s live flute performance will guide your breath and elevate your experience, inviting you to immerse yourself in the calming environment."
-      },
-      "book": {
-        "link": "https://momence.com/s/107981094"
+      "details": {
+        "headline": "A 2 hour playful workshop focused on Pincha",
+        "subheadline": "A 2 hour playful workshop focused on Pincha",
+        "image": "/images/pincha_workshop.jpeg",
+        "intro": {
+          "title": "Pincha Workshop",
+          "host": [
+            {
+              "name": "Nicole Driscoll",
+              "url": ""
+            }
+          ],
+          "paragraph1": "In this playful 2 hour workshop we will break down the fundamentals of holding pincha, to exploring different progressions you can take.",
+          "paragraph2": "Through conditioning the body in preparation to support itself in pincha, we will build up strength and flexibility to help create more awareness of body positioning, which will give you more confidence when you’re upside down."
+        },
+        "book": {
+          "link": "https://momence.com/s/105440121"
+        }
       }
     },
-    "detailsSection": {
-      "text": [],
-      "whatToBring": {
-        "title": "",
-        "list": []
+    {
+      "id": 4,
+      "title": "Song Cirlce",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "September 14, 2024 6:00 pm - September 14, 2024 7:30 pm",
+      "description": "Join in community and connection to yourself through voice",
+      "url": "song-circle-4",
+      "image": "/images/song-circle.jpeg",
+      "details": {
+        "headline": "Join in community and connection to yourself through voice",
+        "subheadline": "Join in community and connection to yourself through voice",
+        "image": "/images/song-circle.jpeg",
+        "intro": {
+          "title": "Song Cirlce",
+          "host": [
+            {
+              "name": "Samuel Nwokeka",
+              "url": "samuel-nwokeka/"
+            }
+          ],
+          "paragraph1": "Join as a community together to share the power of voice in unison. To open the voice is a tool for expression. This evening will be a mixture of kirtan (call and response meditation) as well as song sharing (you do not have to share a song but are more than welcome).",
+          "paragraph2": "You don’t need to be a good singer, a practitioner of yoga, or a follower of any religion or set of beliefs to experience the power of kirtan. An open mind and willing voice are all that is required!",
+          "paragraph3": "This is a donation based event, if you have the means then pick a donation but equally if you do not have the means please come and join <3"
+        },
+        "book": {
+          "link": ""
+        }
+      }
+    },
+    {
+      "id": 6,
+      "title": "Gong Bath",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "October 25, 2024 8:30 pm - October 25, 2024 9:30 pm",
+      "description": "The perfect antidote to the daily stresses",
+      "url": "gong-bath-10",
+      "image": "/images/gong-bath-10.jpeg",
+      "details": {
+        "headline": "Breathwork and Sound Journey",
+        "subheadline": "Journey through breath and sound to yourself",
+        "image": "/images/gong-bath-10.jpeg",
+        "intro": {
+          "title": "Gong Bath",
+          "host": [
+            {
+              "name": "Martyn - Gong Spa",
+              "url": ""
+            }
+          ],
+          "paragraph1": "A gong bath is a unique experience in which you are bathed (clothes on) in the sounds and vibrations of the gongs, which lend themselves to enhanced states of well-being, relaxation, happiness and pleasure.",
+          "paragraph2": "Great for those who want to give a gift to themselves (or others) of an hour of ‘me time’ or as an aid to meditation and deep cleansing. Your body temperature may change during a gong bath, many people drop in temperature. It is sensible to have a blanket at the ready.",
+          "paragraph3": "All you need to do is relax and let the gongs do the work!"
+        },
+        "book": {
+          "link": ""
+        }
+      }
+    },
+    {
+      "id": 5,
+      "title": "Menstrual Cycle Awareness for Yoga & Fitness",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "October 20, 2024 7:00 am - October 20, 2024 9:00 am",
+      "description": "Ladies, we are are cyclical.",
+      "url": "menstrual-cycle-awareness-for-yoga-fitness",
+      "image": "/images/menstrual.jpg",
+      "details": {
+        "headline": "Menstrual Cycle Awareness for Yoga & Fitness",
+        "subheadline": "Ladies, we are are cyclical.",
+        "image": "/images/menstrual.jpg",
+        "intro": {
+          "title": "Menstrual Cycle Awareness for Yoga & Fitness",
+          "host": [
+            {
+              "name": "Kate Tittley",
+              "url": ""
+            }
+          ],
+          "paragraph1": "Ladies, we are are cyclical.  Our energy is consistently inconsistent, meaning there are days when we step on to the mat and feel like an Olympic gymnast, and days where we genuinely think our legs are made of lead.  Often we beat ourselves up for this.  We can convince ourselves into thinking we are doing something wrong or aren’t good enough.",
+          "paragraph2": "In fact, our oscillations are part of our amazing, unique biology.  Many of the answers we seek are hidden in menstrual cycle awareness.",
+          "paragraph3": "This workshop offers you an introduction to the menstrual cycle in relation to yoga and physical exercise.  It is open to those with a cycle, and those simply curious to learn more.  The more we learn about the menstrual cycle, the more we can harness this magic to feel better and move optimally."
+        },
+        "book": {
+          "link": "https://momence.com/s/106862189"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "title": "Full Moon Yin Club",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "October 26, 2024 11:00 am - October 26, 2024 1:00 pm",
+      "description": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon.",
+      "url": "full-moon-yin-club",
+      "image": "/images/full-moon.jpg",
+      "details": {
+        "headline": "Full Moon Yin Club",
+        "subheadline": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon.",
+        "image": "/images/full-moon.jpg",
+        "intro": {
+          "title": "Full Moon Yin Club",
+          "host": [
+            {
+              "name": "Sophie Rae",
+              "url": ""
+            }
+          ],
+          "paragraph1": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon. This is a potent time to channel our energy, invite in deep rest and set powerful intentions. Each month we will follow the astrological sign that the full moon falls within and align to the elemental energy of that month. The evening will offer yin, somatics, and intention setting to guide you deeply into connection to yourself.",
+          "paragraph2": "",
+          "paragraph3": ""
+        },
+        "book": {
+          "link": "https://momence.com/s/105507322"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "title": "Gong Bath",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "October 27, 2024 8:30 pm - October 27, 2024 9:30 pm",
+      "description": "The perfect antidote to the daily stresses",
+      "url": "gong-bath-27-2024",
+      "image": "/images/gong-bath-10.jpeg",
+      "details": {
+        "headline": "Breathwork and Sound Journey",
+        "subheadline": "Journey through breath and sound to yourself",
+        "image": "/images/gong-bath-10.jpeg",
+        "intro": {
+          "title": "Gong Bath",
+          "host": [
+            {
+              "name": "Martyn - Gong Spa",
+              "url": ""
+            }
+          ],
+          "paragraph1": "A gong bath is a unique experience in which you are bathed (clothes on) in the sounds and vibrations of the gongs, which lend themselves to enhanced states of well-being, relaxation, happiness and pleasure.",
+          "paragraph2": "Great for those who want to give a gift to themselves (or others) of an hour of ‘me time’ or as an aid to meditation and deep cleansing. Your body temperature may change during a gong bath, many people drop in temperature. It is sensible to have a blanket at the ready.",
+          "paragraph3": "All you need to do is relax and let the gongs do the work!"
+        },
+        "book": {
+          "link": ""
+        }
+      }
+    },
+    {
+      "id": 9,
+      "title": "Menopause Workshop",
+      "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
+      "time": "November 9, 2024 2:00 pm - November 9, 2024 5:00 pm",
+      "description": "Connect & share our experiences focus on befriending our bodies & preparing for change.",
+      "url": "menopause-workshop-9-november",
+      "image": "/images/menopauseworkshop.jpg",
+      "details": {
+        "headline": "Menopause Workshop",
+        "subheadline": "Connect & share our experiences focus on befriending our bodies & preparing for change.",
+        "image": "/images/menopauseworkshop.jpg",
+        "intro": {
+          "title": "Menopause Workshop",
+          "host": [
+            {
+              "name": "Lucy Pope",
+              "url": ""
+            }
+          ],
+          "paragraph1": "Lucy is a yoga therapist & an accredited menopause yoga teacher. The menopause yoga system comprises 4 different classes depending on which stage of the menopause you are at & has been developed using a blend of western medical science with eastern wellbeing. This first workshop is designed for those who are pre or peri menopausal so perfect for those who think they are at the age where menopause might be approaching and would like to learn more & prepare, or for those experiencing the first symptoms.",
+          "paragraph2": "During this 3 hour workshop we will have time to connect & share our experiences focus on befriending our bodies & preparing for change. Letting go of what no longer supports us, plus learn about the importance of reducing stress, increasing rest & relaxation. There will be a 60 minute yoga practice as part of the workshop which is suitable for absolute beginners ",
+          "paragraph3": ""
+        },
+        "book": {
+          "link": "https://momence.com/s/106861717"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "title": "AcroYoga - Open Jam",
+      "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
+      "time": "November 10, 2024 1:00 pm - November 10, 2024 4:00 pm",
+      "description": "This open Jam session is for anyone of all levels or interest in AcroYoga",
+      "url": "acroyoga-open-jam-10-november",
+      "image": "/images/acroyoga.jpg",
+      "details": {
+        "headline": "AcroYoga - Open Jam",
+        "subheadline": "This open Jam session is for anyone of all levels or interest in AcroYoga",
+        "image": "/images/acroyoga.jpg",
+        "intro": {
+          "title": "AcroYoga - Open Jam",
+          "host": [
+            {
+              "name": "Samuel Nwokeka",
+              "url": "samuel-nwokeka/"
+            }
+          ],
+          "paragraph1": "This open Jam session is for anyone of all levels or interest in AcroYoga, wether you want to start out and learn or you just want a space to refine your skills.",
+          "paragraph2": "We will transform the studio into a soft mat area, to ensure safetly as well as having experienced AcroYoga practitioners on hand to help with spotting and tips. ",
+          "paragraph3": "This is a space to build and grow the acroyoga community in Manchester"
+        },
+        "book": {
+          "link": "https://momence.com/s/107613036"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "title": "Song Circle",
+      "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
+      "time": "November 16, 2024 6:00 pm - November 16, 2024 7:30 pm",
+      "description": "Join in community and connection to yourself through voice",
+      "url": "song-circle-16-november",
+      "image": "/images/song-circle.jpeg",
+      "details": {
+        "headline": "Join in community and connection to yourself through voice",
+        "subheadline": "Join in community and connection to yourself through voice",
+        "image": "/images/song-circle.jpeg",
+        "intro": {
+          "title": "Song Cirlce",
+          "host": [
+            {
+              "name": "Samuel Nwokeka",
+              "url": "samuel-nwokeka/"
+            }
+          ],
+          "paragraph1": "Join as a community together to share the power of voice in unison. To open the voice is a tool for expression. This evening will be a mixture of kirtan (call and response meditation) as well as song sharing (you do not have to share a song but are more than welcome).",
+          "paragraph2": "You don’t need to be a good singer, a practitioner of yoga, or a follower of any religion or set of beliefs to experience the power of kirtan. An open mind and willing voice are all that is required!",
+          "paragraph3": "This is a donation based event, if you have the means then pick a donation but equally if you do not have the means please come and join <3"
+        },
+        "book": {
+          "link": "https://momence.com/s/107507764"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "title": "Full Moon Yin Club",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "November 16, 2024 6:00 pm - November 16, 2024 8:00 pm",
+      "description": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon.",
+      "url": "full-moon-yin-club-16-november",
+      "image": "/images/full-moon.jpg",
+      "details": {
+        "headline": "Full Moon Yin Club",
+        "subheadline": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon.",
+        "image": "/images/full-moon.jpg",
+        "intro": {
+          "title": "Full Moon Yin Club",
+          "host": [
+            {
+              "name": "Sophie Rae",
+              "url": ""
+            }
+          ],
+          "paragraph1": "Join Sophie-Rae for a 2 hour yin ceremony as we journey under the full moon. This is a potent time to channel our energy, invite in deep rest and set powerful intentions. Each month we will follow the astrological sign that the full moon falls within and align to the elemental energy of that month. The evening will offer yin, somatics, and intention setting to guide you deeply into connection to yourself.",
+          "paragraph2": "",
+          "paragraph3": ""
+        },
+        "book": {
+          "link": "https://momence.com/s/105507322"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "title": "Sound Bath",
+      "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
+      "time": "November 22, 2024 8:00 pm - November 22, 2024 9:00 pm",
+      "description": "Gift yourself an hour of relaxation as you are bathed in the sounds",
+      "url": "sound-bath-22-november",
+      "image": "/images/sound-bath.jpg",
+      "details": {
+        "headline": "Sound Bath",
+        "subheadline": "Gift yourself an hour of relaxation as you are bathed in the sounds",
+        "image": "/images/sound-bath.jpg",
+        "intro": {
+          "title": "Sound Bath",
+          "host": [
+            {
+              "name": "Lucy Pope",
+              "url": ""
+            }
+          ],
+          "paragraph1": "Gift yourself an hour of relaxation as you are bathed in the sounds of crystal bowls, crystal harp, a wind gong, chimes & more. All you need to do is lie down, get comfy & allow the sounds of the instruments to wash over you and take you on a journey.",
+          "paragraph2": "It is advisable to dress in warm comfortable loose clothing. Please bring a blanket & perhaps a pillow to aid your comfort as your body temperature may drop. ",
+          "paragraph3": "Not suitable for those in the 1st trimester of pregnancy, with a heart condition, sound activated epilepsy, those with metal implants in the body or a pacemaker."
+        },
+        "book": {
+          "link": "https://momence.com/s/106915617"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "title": "Cacao Ceremony",
+      "location": "Yoga Soul - Levenshulme, 823a Stockport Road, Manchester, M19 3PN",
+      "time": "November 23, 2024 6:30 pm - November 23, 2024 8:30 pm",
+      "description": "Cacao Ceremony",
+      "url": "cacao-ceremony",
+      "image": "/images/cacao-ceremony.jpg",
+      "details": {
+        "headline": "Cacao Ceremony",
+        "subheadline": "Cacao Ceremony",
+        "image": "/images/cacao-ceremony.jpg",
+        "intro": {
+          "title": "Cacao Ceremony",
+          "host": [
+            {
+              "name": "Carlos Mundalah",
+              "url": ""
+            }
+          ],
+          "paragraph1": "",
+          "paragraph2": "",
+          "paragraph3": ""
+        },
+        "book": {
+          "link": "https://momence.com/s/107900952"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "title": "Elemental breathwork",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "November 24, 2024 1:00 pm - November 24, 2024 3:00 pm",
+      "description": "Expand our energy in all 4 elements creating a fully integrated self.",
+      "url": "elemental-breathwork",
+      "image": "/images/elemental-breathwork.jpg",
+      "details": {
+        "headline": "Elemental breathwork",
+        "subheadline": "Expand our energy in all 4 elements creating a fully integrated self.",
+        "image": "/images/elemental-breathwork.jpg",
+        "intro": {
+          "title": "Elemental breathwork",
+          "host": [
+            {
+              "name": "Nicholas Mendard",
+              "url": ""
+            }
+          ],
+          "paragraph1": "Elemental Breathwork maps the 4 parts of the breath with a quadrant of elemental sensations and emotions creating a full flow through the body, mind and soul.",
+          "paragraph2": "For the Air breathe, you will experience lightness in your heart and a sense of floating. In the Fire section we will cultivate transformation, action and you will experience a sense of uplifting energy. During the Water breathe we will work with our emotional side and drop back into the flow of life. For the Earth segment will root into in our bodies offering everything back down to the ground as you experience a sense of calm clear understanding.",
+          "paragraph3": "During this workshop we will expand our energy in all 4 elements creating a fully integrated self. It will begin with a discussion of the elements and how they relate to various aspects of the breath. From there we will put the knowledge into practice as we journey through a 120 minute breathwork session."
+        },
+        "book": {
+          "link": "https://momence.com/s/107997099"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "title": "Yin & music",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "November 30, 2024 6:00 pm - November 30, 2024 7:30 pm",
+      "description": "Experience the restorative benefits of Yin Yoga, which focuses on deep stretching and relaxation.",
+      "url": "yin-music",
+      "image": "/images/yin-music.jpg",
+      "details": {
+        "headline": "Yin & music",
+        "subheadline": "Experience the restorative benefits of Yin Yoga, which focuses on deep stretching and relaxation.",
+        "image": "/images/yin-music.jpg",
+        "intro": {
+          "title": "Yin & music",
+          "host": [
+            {
+              "name": "Tegan McLeod",
+              "url": ""
+            }
+          ],
+          "paragraph1": "Join us for a very special 90-minute Yin Yoga class featuring the soothing  melodies of Jess Carr,  flautist from the Royal Northern College of Music. As part of her final year project Jess will be sharing her enchanting music with us, creating a serene and powerful atmosphere to enhance our practice.",
+          "paragraph2": "In this session, you will experience the restorative benefits of Yin Yoga, which focuses on deep stretching and relaxation. As you hold poses for an extended duration, Jess’s live flute performance will guide your breath and elevate your experience, inviting you to immerse yourself in the calming environment.",
+          "paragraph3": "This unique event is designed for all levels, whether you're a seasoned yogi or new to the practice. prepare to unwind as we connect through the beautiful synergy of yoga and music. Reserve your spot today and be part of this unique special collaboration!"
+        },
+        "book": {
+          "link": "https://momence.com/s/107981094"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "title": "Arm balance workshop",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "Sunday January 26, 2025 (2:00 PM - 10:00 PM 120 min)",
+      "description": "We will be activating our core and arm strength, but also breaking down and learning the technique through drills and tricks for a total of 4 arm balances",
+      "url": "arm-balance-workshop-january",
+      "image": "/images/arm_balance_workshop.jpeg",
+      "details": {
+        "headline": "Arm balance workshop",
+        "subheadline": "We will be activating our core and arm strength, but also breaking down and learning the technique through drills and tricks for a total of 4 arm balances",
+        "image": "/images/arm_balance_workshop.jpeg",
+        "intro": {
+          "title": "Arm balance workshop",
+          "host": [
+            {
+              "name": "Alhucema Lara Lopez",
+              "url": ""
+            }
+          ],
+          "paragraph1": "If you feel like arm balances are rarely broken down and actually explained in regular yoga classes and you would like to learn the skill and practice them with guidance, this two hour workshop is for you.",
+          "paragraph2": "Arm balances can seem intimidating, but opposite to what they look like, they are more about the right technique than actual strength, and that’s why they are for all no matter the level. ",
+          "paragraph3": "We will also look into some progressions, transitions and variations. Session will end with a gentle stretching sequence to cool down and a long shavasana. "
+        },
+        "book": {
+          "link": "https://momence.com/Alhucema-Lara-Lopez/Arm-balance-workshop/111030943?skipPreview=true"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "title": "Unlocking the Magic of the Sun Salutation (Surya Namaskar)",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "Sat, February 01, 2025 (8:00 AM - 2 hours30 minutes)",
+      "description": "Join Jamie for a journey of discovery into the physical nuance, historical roots, and spiritual depth of Surya Namaskar (Sun Salutation).  ",
+      "url": "magic-of-the-sun-salutation",
+      "image": "/images/magic-of-the-sun-salutation.jpeg",
+      "details": {
+          "headline": "Unlocking the Magic of the Sun Salutation (Surya Namaskar)",
+          "subheadline": "Join Jamie for a journey of discovery into the physical nuance, historical roots, and spiritual depth of Surya Namaskar (Sun Salutation).  ",
+          "image": "/images/magic-of-the-sun-salutation.jpeg",
+          "intro": {
+              "title": "Unlocking the Magic of the Sun Salutation (Surya Namaskar)",
+              "host": [
+                  {
+                      "name": "Jamie Rowland",
+                      "url": ""
+                  }
+              ],
+              "paragraph1": "Sun Salutation is one of Jamie’s favourite ways to move his body and he believes it to be a truly transformational instrument to empower our Yoga Practice as a whole as well as help manage the stresses and strains of daily life. However, through his time teaching he has observed so much potential for people to make this series of movements more safe, efficient, powerful and connective. The intention of the event is to transform the Sun Salutation from a warm-up into a powerful sequence of movements, unique to your own individual practice and body, which perfectly encapsulates the beauty of the practice of Yoga as a whole. ",
+              "paragraph2": "The event will begin with a historical overview of the Sun Salutation to provide contextual understanding to inform the practice. Each constituent pose of the Sun Salutation will then be explored with Jamie helping each student to find an expression that works most optimally for their own unique body type. Jamie will then introduce and explain the transformational ‘Ujjayi Breath’ and use of Bhandas, leading students through exercises to practice and understand these more subtle actions. Following this, we will explore the integral practice of synchronizing the breath with each movement, with tips and tricks provided as to how to do this in the most efficient and powerful way possible. The event will conclude with Jamie leading students through 5 x Surya Namaskar A’s and 5 x Surya Namaskar B’s so participants can put into practice and assimilate all of the knowledge acquired.",
+              "paragraph3": ""
+          },
+          "book": {
+              "link": "https://momence.com/Jamie--Rowland/Unlocking-the-Magic-of-the-Sun-Salutation-(Surya-Namaskar)/109856756?skipPreview=true"
+          }
+      }
+    },
+    {
+      "id": 19,
+      "title": "Love of Yin",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "Sat, February 15, 2025 (12:00 PM - 90 minutes)",
+      "description": "Join Tegan for a beautiful 90 minute, affirming, love-filled yin class for Valentines. ",
+      "url": "love-of-yin",
+      "image": "/images/love-of-yin.jpeg",
+      "details": {
+          "headline": "Love of Yin",
+          "subheadline": "Join Tegan for a beautiful 90 minute, affirming, love-filled yin class for Valentines. ",
+          "image": "love-of-yin.jpeg",
+          "intro": {
+              "title": "Love of Yin",
+              "host": [
+                  {
+                      "name": "Tegan McLeod",
+                      "url": ""
+                  }
+              ],
+              "paragraph1": "Join Tegan for a beautiful 90 minute, affirming, love-filled yin class for Valentines. ",
+              "paragraph2": "Enjoy long holds, affirmations and intention-setting—all in the spirit of love!",
+              "paragraph3": "Saturday 15th of February 6pm "
+          },
+          "book": {
+              "link": "https://momence.com/Tegan--McLeod/Love-of-Yin/109867843?skipPreview=true"
+          }
+      }
+    },
+    {
+      "id": 20,
+      "title": "Song Cirlce",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "Saturday February 22, 2025 - (6:00 PM - 1:30 AM - 90 min)",
+      "description": "Join in community and connection to yourself through voice",
+      "url": "song-circle-january25",
+      "image": "/images/song-circle.jpeg",
+      "details": {
+        "headline": "Join in community and connection to yourself through voice",
+        "subheadline": "Join in community and connection to yourself through voice",
+        "image": "/images/song-circle.jpeg",
+        "intro": {
+          "title": "Song Cirlce",
+          "host": [
+            {
+              "name": "Samuel Nwokeka",
+              "url": "samuel-nwokeka/"
+            }
+          ],
+          "paragraph1": "Join as a community together to share the power of voice in unison. To open the voice is a tool for expression. This evening will be a mixture of kirtan (call and response meditation) as well as song sharing (you do not have to share a song but are more than welcome).",
+          "paragraph2": "You don’t need to be a good singer, a practitioner of yoga, or a follower of any religion or set of beliefs to experience the power of kirtan. An open mind and willing voice are all that is required!",
+          "paragraph3": "This is a donation based event, if you have the means then pick a donation but equally if you do not have the means please come and join <3"
+        },
+        "book": {
+          "link": "https://momence.com/Samuel-Nwokeka-/Song-Circle-/111470130?skipPreview=true"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "title": "Gong Bath",
+      "location": "yoga soul - Northern Quarter, 49a Newton Street, Manchester, M1 1FT",
+      "time": "Sun, March 16, 2025 (2:30 PM - 60 minutes)",
+      "description": "The perfect antidote to the daily stresses",
+      "url": "gong-bath-27-2024",
+      "image": "/images/gong-bath-10.jpeg",
+      "details": {
+        "headline": "Breathwork and Sound Journey",
+        "subheadline": "Journey through breath and sound to yourself",
+        "image": "/images/gong-bath-10.jpeg",
+        "intro": {
+          "title": "Gong Bath",
+          "host": [
+            {
+              "name": "Martyn - Gong Spa",
+              "url": ""
+            }
+          ],
+          "paragraph1": "A gong bath is a unique experience in which you are bathed (clothes on) in the sounds and vibrations of the gongs, which lend themselves to enhanced states of well-being, relaxation, happiness and pleasure.",
+          "paragraph2": "Great for those who want to give a gift to themselves (or others) of an hour of ‘me time’ or as an aid to meditation and deep cleansing. Your body temperature may change during a gong bath, many people drop in temperature. It is sensible to have a blanket at the ready.",
+          "paragraph3": "All you need to do is relax and let the gongs do the work!"
+        },
+        "book": {
+          "link": "https://momence.com/Martyn-GongSpa/Gong-Bath/111133285?skipPreview=true"
+        }
       }
     }
-  }
-]
+  ]
+  
